@@ -1,13 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenISE – Docs</title>
-    <link>//localhost:1313/docs/</link>
-    <description>Recent content in Docs on OpenISE</description>
+    <title>OpenISE – </title>
+    <link>//localhost:1313/docs/%E5%A4%A7%E4%BA%8C%E4%B8%8B/</link>
+    <description>Recent content on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 17:31:53 +0800</lastBuildDate>
     
-	  <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/docs/%E5%A4%A7%E4%BA%8C%E4%B8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
       
