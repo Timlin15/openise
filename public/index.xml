@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenISE – 中山大学智能工程学院开源计划</title>
+    <title>OpenISE – OpenISE</title>
     <link>https://openise.pages.dev/</link>
-    <description>Recent content in 中山大学智能工程学院开源计划 on OpenISE</description>
+    <description>Recent content on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Apr 2026 17:31:53 +0800</lastBuildDate>
     
 	  <atom:link href="https://openise.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
