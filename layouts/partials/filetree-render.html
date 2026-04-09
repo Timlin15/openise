@@ -45,18 +45,16 @@
       <div class="course-filetree-meta">{{ $entry.sizeHuman }}</div>
       <div class="course-filetree-meta">{{ $entry.mtime }}</div>
       <div class="course-filetree-actions">
-        <a class="course-filetree-action" href="{{ $entry.url }}" target="_blank" rel="noreferrer" aria-label="打开 {{ $entry.name }}">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
-            <path d="M14 5h5v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M10 14 19 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </a>
-        <a class="course-filetree-action" href="{{ $entry.url }}" download aria-label="下载 {{ $entry.name }}">
+        <a class="course-filetree-action" href="{{ $entry.mirrorUrl }}" target="_blank" rel="noreferrer" aria-label="加速下载 {{ $entry.name }}" title="加速下载">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
             <path d="M12 4v10" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
             <path d="m8 10 4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
             <path d="M5 19h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </a>
+        <a class="course-filetree-action" href="{{ $entry.repoUrl }}" target="_blank" rel="noreferrer" aria-label="跳转GitHub {{ $entry.name }}" title="跳转GitHub">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 .5C5.65.5.5 5.7.5 12.1c0 5.12 3.3 9.47 7.88 11 .58.11.79-.26.79-.57 0-.28-.01-1.2-.02-2.17-3.2.71-3.88-1.38-3.88-1.38-.52-1.35-1.28-1.7-1.28-1.7-1.05-.73.08-.72.08-.72 1.16.08 1.77 1.21 1.77 1.21 1.03 1.8 2.7 1.28 3.36.98.1-.76.4-1.28.73-1.58-2.55-.3-5.23-1.3-5.23-5.78 0-1.28.45-2.32 1.2-3.14-.12-.3-.52-1.52.11-3.17 0 0 .98-.32 3.2 1.2a10.9 10.9 0 0 1 5.82 0c2.22-1.52 3.2-1.2 3.2-1.2.63 1.65.23 2.87.11 3.17.75.82 1.2 1.86 1.2 3.14 0 4.49-2.69 5.48-5.25 5.77.41.36.78 1.08.78 2.19 0 1.58-.01 2.85-.01 3.24 0 .31.21.69.8.57A11.62 11.62 0 0 0 23.5 12.1C23.5 5.7 18.35.5 12 .5Z"/>
           </svg>
         </a>
       </div>

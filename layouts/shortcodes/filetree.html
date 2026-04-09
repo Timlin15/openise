@@ -46,19 +46,7 @@
     .course-filetree-title {
       display: flex;
       align-items: center;
-      gap: 0.75rem;
       min-width: 0;
-    }
-    .course-filetree-badge {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 2.5rem;
-      height: 2.5rem;
-      border-radius: 0.9rem;
-      color: var(--ft-accent);
-      background: var(--ft-accent-soft);
-      flex-shrink: 0;
     }
     .course-filetree-title strong {
       display: block;
@@ -241,16 +229,11 @@
     }
   </style>
 
-  <div class="course-filetree-shell">
-    <div class="course-filetree-head">
-      <div class="course-filetree-title">
-        <span class="course-filetree-badge" aria-hidden="true">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
-            <path d="M4 7.5A2.5 2.5 0 0 1 6.5 5H10l2 2h5.5A2.5 2.5 0 0 1 20 9.5v8A2.5 2.5 0 0 1 17.5 20h-11A2.5 2.5 0 0 1 4 17.5v-10Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/>
-          </svg>
-        </span>
+    <div class="course-filetree-shell">
+      <div class="course-filetree-head">
+        <div class="course-filetree-title">
         <div>
-          <strong>资源下载</strong>
+          <strong>课程资料</strong>
           <span>{{ $path }}</span>
         </div>
       </div>
