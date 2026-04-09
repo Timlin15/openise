@@ -8,10 +8,6 @@ layout: hextra-home
   from { opacity: 0; transform: translateY(24px); }
   to { opacity: 1; transform: translateY(0); }
 }
-@keyframes floatLogo {
-  0%, 100% { transform: translateY(0) rotate(0deg); }
-  50% { transform: translateY(-10px) rotate(1deg); }
-}
 .hero-section {
   position: relative;
   overflow: visible;
@@ -25,7 +21,6 @@ layout: hextra-home
   height: 380px;
   opacity: 0.07;
   pointer-events: none;
-  animation: floatLogo 8s ease-in-out infinite;
   z-index: 1;
 }
 :is(.dark) .hero-logo-bg {
@@ -80,7 +75,7 @@ OpenISE
   title="开放许可"
   subtitle="站点内容采用 CC BY-SA 4.0 协议，允许传播与改编，但必须署名并保持相同方式共享。"
   icon="scale"
-  style=""
+  style="background: radial-gradient(ellipse at 50% 80%, rgba(34, 197, 94, 0.14), hsla(0,0%,100%,0));"
 >}}
 {{< hextra/feature-card
   title="维护原则"
@@ -92,7 +87,7 @@ OpenISE
   title="新闻文档"
   subtitle="一些学长学姐的感言文章记录，文档更新的内容通知，一些重要的有用信息的发布。"
   icon="academic-cap"
-  style=""
+  style="background: radial-gradient(ellipse at 50% 80%, rgba(38, 99, 235, 0.14), hsla(0,0%,100%,0));"
 >}}
 {{< hextra/feature-card
   title="长期建设"

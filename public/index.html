@@ -1600,10 +1600,6 @@ document.addEventListener('DOMContentLoaded', function() {
   from { opacity: 0; transform: translateY(24px); }
   to { opacity: 1; transform: translateY(0); }
 }
-@keyframes floatLogo {
-  0%, 100% { transform: translateY(0) rotate(0deg); }
-  50% { transform: translateY(-10px) rotate(1deg); }
-}
 .hero-section {
   position: relative;
   overflow: visible;
@@ -1617,7 +1613,6 @@ document.addEventListener('DOMContentLoaded', function() {
   height: 380px;
   opacity: 0.07;
   pointer-events: none;
-  animation: floatLogo 8s ease-in-out infinite;
   z-index: 1;
 }
 :is(.dark) .hero-logo-bg {
@@ -1686,7 +1681,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="not-prose feature-grid hx:mt-6 hx:grid hx:grid-cols-1 hx:md:grid-cols-2 hx:gap-4">
 <a
   
-  
+  style="background: radial-gradient(ellipse at 50% 80%, rgba(34, 197, 94, 0.14), hsla(0,0%,100%,0));"
   class=" hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient"
 >
   <div class="hx:relative hx:w-full hx:p-6">
@@ -1712,7 +1707,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <a
   
-  
+  style="background: radial-gradient(ellipse at 50% 80%, rgba(38, 99, 235, 0.14), hsla(0,0%,100%,0));"
   class=" hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient"
 >
   <div class="hx:relative hx:w-full hx:p-6">
