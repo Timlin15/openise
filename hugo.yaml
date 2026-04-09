@@ -22,6 +22,6 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/changyicheng1234/sysu-ise-course-materials"
+      url: "https://github.com/changyicheng1234/OpenISE"
       params:
         icon: github
