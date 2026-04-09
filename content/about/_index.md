@@ -2,8 +2,7 @@
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-如果希望匿名贡献，可以 email 至此邮箱，注明 "SYSU-ISE-Courses" 即可：3365768302@qq.com或者
-houyj23@mail2.sysu.edu.cn 
+如果希望匿名贡献，可以 email 至此邮箱，注明 "SYSU-ISE-Courses" 即可：Timlinjq@gmail.com 或者 3365768302@qq.com 
 
 对于课程和教师的评价可写在对应课程的 README.md 中。
 
