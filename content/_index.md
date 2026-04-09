@@ -22,34 +22,21 @@ OpenISE
 
 {{< hextra/feature-grid >}}
 {{< hextra/feature-card
-  title="项目目的"
-  subtitle="整理课程资料、作业经验与复习策略，降低信息差，帮助后续同学更高效地学习与检索。"
-  icon="academic-cap"
-  style="background: radial-gradient(ellipse at 50% 80%, rgba(38, 99, 235, 0.14), hsla(0,0%,100%,0));"
->}}
-{{< hextra/feature-card
   title="开放许可"
   subtitle="站点内容采用 CC BY-SA 4.0 协议，允许传播与改编，但必须署名并保持相同方式共享。"
   icon="scale"
   style="background: radial-gradient(ellipse at 50% 80%, rgba(34, 197, 94, 0.14), hsla(0,0%,100%,0));"
 >}}
 {{< hextra/feature-card
-  title="文档入口"
-  subtitle="课程文档按专业、学期、课程组织，支持直接浏览课程介绍与资源下载。"
-  icon="book-open"
-  link="/doc"
-  style="background: radial-gradient(ellipse at 50% 80%, rgba(249, 115, 22, 0.14), hsla(0,0%,100%,0));"
->}}
-{{< hextra/feature-card
-  title="贡献方式"
-  subtitle="欢迎通过 Issue、Pull Request、资料补充和经验总结持续完善内容。"
-  icon="sparkles"
-  link="/about/#贡献方式"
->}}
-{{< hextra/feature-card
   title="维护原则"
   subtitle="保持非商业化、可追溯、可审查，资料仅供学习参考，不替代独立完成作业与实验。"
   icon="shield-check"
+>}}
+{{< hextra/feature-card
+  title="新闻文档"
+  subtitle="一些学长学姐的感言文章记录，文档更新的内容通知，一些重要的有用信息的发布"
+  icon="academic-cap"
+  style="background: radial-gradient(ellipse at 50% 80%, rgba(38, 99, 235, 0.14), hsla(0,0%,100%,0));"
 >}}
 {{< hextra/feature-card
   title="长期建设"
