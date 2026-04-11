@@ -87,8 +87,11 @@
     <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" />
     <span class="doc-friend-link-title">华南理工生存手册</span>
   </a>
+  <a href="https://csbaoyan.top/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/csbaoyan.top.ico" alt="CS保研导航 favicon" />
+    <span class="doc-friend-link-title">CS保研导航</span>
+  </a>
 </div>
-
 
 ## 贡献者
 **内容贡献者**

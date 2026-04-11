@@ -1,17 +1,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenISE – OpenISE</title>
-    <link>http://localhost:1313/</link>
+    <link>https://openise.pages.dev/</link>
     <description>Recent content on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://openise.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
       
       
     
+    
+    <item>
+      <title>OpenISE · 发起说明 · 送给学弟学妹们的礼物</title>
+      <link>https://openise.pages.dev/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://openise.pages.dev/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;项目背景&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目背景&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e8%83%8c%e6%99%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;智能工程学院开办于2017年5月，但时至今日仍然没有一个系统化的课程资料共享项目。&lt;/p&gt;
+&lt;p&gt;作为过来人，我深知刚进入大学，尤其是大一、大二阶段时的迷茫感。在担任25级本科生迎新负责人的过程中，这种感受更加深刻。&lt;/p&gt;
+&lt;p&gt;迎新活动对学弟学妹们确实有所帮助，也收到了他们的热情支持和感谢，这让我们收获了很大的成就感。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;项目初衷&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目初衷&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e5%88%9d%e8%a1%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;因此，在大四的我，于2025年10月左右萌生了这个想法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本科毕业，总想为学院留下些什么&lt;/li&gt;
+&lt;li&gt;为什么其他学校有类似项目，而我们没有&lt;/li&gt;
+&lt;li&gt;为什么每级约200人的体量，却没有人去做这件事情&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;带着这些问题，这个项目开始了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;项目启动与发展&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目启动与发展&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e5%90%af%e5%8a%a8%e4%b8%8e%e5%8f%91%e5%b1%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;从2026年初开始，我正式着手搭建这个项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;初期参考了清华大学、浙江大学的相关项目&lt;/li&gt;
+&lt;li&gt;收集了周围同学、学长学姐、学弟学妹们的课程资料和期末报告&lt;/li&gt;
+&lt;li&gt;于2026年3月完成初版搭建&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在与24级师弟林楗棋交流的过程中发现，他在大一时就曾有过类似的想法，但由于资料不足未能推进。&lt;/p&gt;
+&lt;p&gt;于是我们一拍即合，共同完善这个项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;借鉴哈工深的项目结构&lt;/li&gt;
+&lt;li&gt;搭建网页端可视化系统&lt;/li&gt;
+&lt;li&gt;对资料进行更系统、更清晰的整理&lt;/li&gt;
+&lt;li&gt;增加相关友链资源&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;博客系统&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;博客系统&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8d%9a%e5%ae%a2%e7%b3%bb%e7%bb%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;此外，林师弟还开发了博客系统，用于发布更多内容和文章。&lt;/p&gt;
+&lt;p&gt;本文即为该博客系统的第一篇文章。&lt;/p&gt;
+&lt;p&gt;至此，本项目已经成为一个相对完善、结构清晰的资料平台。&lt;/p&gt;
+&lt;p&gt;后续如果项目反响较好，我们将继续优化内容与功能。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;项目目标&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目目标&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e7%9b%ae%e6%a0%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本项目旨在整理和分享中山大学智能工程学院本科课程相关资料，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;课程复习策略&lt;/li&gt;
+&lt;li&gt;选课建议&lt;/li&gt;
+&lt;li&gt;期末报告&lt;/li&gt;
+&lt;li&gt;各类学习资料&lt;/li&gt;
+&lt;li&gt;学长回忆录真题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;希望能够帮助学弟学妹们：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;减轻绩点压力&lt;/li&gt;
+&lt;li&gt;降低课业负担&lt;/li&gt;
+&lt;li&gt;将更多时间投入到真正想做的事情上&lt;/li&gt;
+&lt;li&gt;提升本科阶段的整体体验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;鼓励&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;鼓励&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%bc%93%e5%8a%b1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;鼓励大家：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有资料可以积极贡献&lt;/li&gt;
+&lt;li&gt;平时有什么想法大胆去做，不要害怕&lt;/li&gt;
+&lt;li&gt;多做自己觉得有意义的事情，少做无意义的事情&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;如果你觉得有用的话，一定记得去github给我们的项目点一个star，让更多人看到它！&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;如果你觉得有用的话一定记得去github给我们的项目点一个star让更多人看到它&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%a6%82%e6%9e%9c%e4%bd%a0%e8%a7%89%e5%be%97%e6%9c%89%e7%94%a8%e7%9a%84%e8%af%9d%e4%b8%80%e5%ae%9a%e8%ae%b0%e5%be%97%e5%8e%bbgithub%e7%bb%99%e6%88%91%e4%bb%ac%e7%9a%84%e9%a1%b9%e7%9b%ae%e7%82%b9%e4%b8%80%e4%b8%aastar%e8%ae%a9%e6%9b%b4%e5%a4%9a%e4%ba%ba%e7%9c%8b%e5%88%b0%e5%ae%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;致谢&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;致谢&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%87%b4%e8%b0%a2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;感谢本项目所有参与者，特别是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;林楗棋&lt;/li&gt;
+&lt;li&gt;蔡思远&lt;/li&gt;
+&lt;li&gt;陈泓逸&lt;/li&gt;
+&lt;li&gt;梁艺琳&lt;/li&gt;
+&lt;li&gt;以及屏幕前的你&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;项目内容贡献者&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目内容贡献者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e5%86%85%e5%ae%b9%e8%b4%a1%e7%8c%ae%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;22级：常毅成、陈泓逸、蔡思远&lt;/li&gt;
+&lt;li&gt;23级：梁艺琳&lt;/li&gt;
+&lt;li&gt;24级：林楗棋&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;项目维护者&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目维护者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e7%bb%b4%e6%8a%a4%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;22级：常毅成&lt;/li&gt;
+&lt;li&gt;24级：林楗棋、杨开元、侯煜佳&lt;/li&gt;
+&lt;li&gt;25级：林小栋&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>
