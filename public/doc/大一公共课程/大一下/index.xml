@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenISE – 大一下</title>
-    <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>
+    <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>
     <description>Recent content in 大一下 on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	  <atom:link href="https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>人工智能导论</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</guid>
       <description>
         
         
@@ -362,10 +362,10 @@
     
     <item>
       <title>传感器原理与应用</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</guid>
       <description>
         
         
@@ -2066,10 +2066,10 @@
     
     <item>
       <title>大物下</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E7%89%A9%E4%B8%8B/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E7%89%A9%E4%B8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E7%89%A9%E4%B8%8B/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E7%89%A9%E4%B8%8B/</guid>
       <description>
         
         
@@ -3163,10 +3163,10 @@
     
     <item>
       <title>思政</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%80%9D%E6%94%BF/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%80%9D%E6%94%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%80%9D%E6%94%BF/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%80%9D%E6%94%BF/</guid>
       <description>
         
         
@@ -4444,10 +4444,10 @@
     
     <item>
       <title>概统</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%A6%82%E7%BB%9F/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%A6%82%E7%BB%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%A6%82%E7%BB%9F/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%A6%82%E7%BB%9F/</guid>
       <description>
         
         
@@ -4987,10 +4987,10 @@
     
     <item>
       <title>电路</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF/</guid>
       <description>
         
         
@@ -5446,10 +5446,10 @@
     
     <item>
       <title>电路理论基础实验</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C/</guid>
       <description>
         
         
@@ -6027,10 +6027,10 @@
     
     <item>
       <title>线代</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%BA%BF%E4%BB%A3/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%BA%BF%E4%BB%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%BA%BF%E4%BB%A3/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%BA%BF%E4%BB%A3/</guid>
       <description>
         
         
@@ -7370,10 +7370,10 @@
     
     <item>
       <title>英语</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%8B%B1%E8%AF%AD/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%8B%B1%E8%AF%AD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%8B%B1%E8%AF%AD/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E8%8B%B1%E8%AF%AD/</guid>
       <description>
         
         
@@ -9945,10 +9945,10 @@
     
     <item>
       <title>高数下</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E6%95%B0%E4%B8%8B/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E6%95%B0%E4%B8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E6%95%B0%E4%B8%8B/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E6%95%B0%E4%B8%8B/</guid>
       <description>
         
         

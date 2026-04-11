@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenISE – 大一公共课程</title>
-    <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/</link>
+    <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/</link>
     <description>Recent content in 大一公共课程 on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	  <atom:link href="https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>大一上</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8A/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8A/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8A/</guid>
       <description>
         
         
@@ -72,10 +72,10 @@
     
     <item>
       <title>大一下</title>
-      <link>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>
+      <link>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/</guid>
+      <guid>http://localhost:1313/doc/%E5%A4%A7%E4%B8%80%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%B8%80%E4%B8%8B/</guid>
       <description>
         
         

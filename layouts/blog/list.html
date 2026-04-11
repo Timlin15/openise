@@ -146,6 +146,7 @@
       color: inherit;
     }
     .blog-post-title-link {
+      display: block;
       color: inherit;
       text-decoration: none;
     }
@@ -252,8 +253,8 @@
           <div class="blog-post-main">
             <a class="blog-post-title-link" href="{{ .RelPermalink }}">
               <h2 class="blog-post-title">{{ .Title }}</h2>
+              <div class="blog-post-summary">{{ $summary }}</div>
             </a>
-            <div class="blog-post-summary">{{ $summary }}</div>
             <div class="blog-post-author">作者：{{ $author | markdownify }}</div>
           </div>
           <a class="blog-post-arrow" href="{{ .RelPermalink }}" aria-label="查看 {{ .Title }}">
