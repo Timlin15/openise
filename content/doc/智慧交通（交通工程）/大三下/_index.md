@@ -10,6 +10,6 @@ weight: 32
   {{< card link="交通环境工程" title="交通环境工程" >}}
   {{< card link="交通规划" title="交通规划" >}}
   {{< card link="工程伦理" title="工程伦理" >}}
-  {{< card link="物联网技术与应用-交通" title="物联网技术与应用-交通" >}}
+  {{< card link="物联网技术与应用-交通" title="物联网技术与应用" >}}
   {{< card link="项目管理" title="项目管理" >}}
 {{< /cards >}}
