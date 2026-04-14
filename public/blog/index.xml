@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenISE – 博客</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://openise.pages.dev/blog/</link>
     <description>Recent content in 博客 on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://openise.pages.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>OpenISE · 发起说明 · 送给学弟学妹们的礼物</title>
-      <link>http://localhost:1313/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/</link>
+      <link>https://openise.pages.dev/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/</link>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/</guid>
+      <guid>https://openise.pages.dev/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/</guid>
       <description>
         
         
@@ -115,10 +115,10 @@
     
     <item>
       <title>让流动的东西稳定下来：一篇发刊词</title>
-      <link>http://localhost:1313/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/</link>
+      <link>https://openise.pages.dev/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/</link>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/</guid>
+      <guid>https://openise.pages.dev/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/</guid>
       <description>
         
         
@@ -130,7 +130,7 @@
 &lt;li&gt;对于需要课程资料、选课建议的同学：尽情取用，这个网站就是为了你们设计的，能解决你们的问题就是它存在的意义。如果可以，更欢迎你们广而告之，让这个项目能影响到、帮助到更多的人。&lt;/li&gt;
 &lt;li&gt;对于有资料可以贡献，有经验可以分享的同学：欢迎你们&lt;a href=&#34;%5cabout&#34;&gt;贡献&lt;/a&gt;，课程资料、内容介绍、选课建议，大到职业规划、升学/就业经验，小到中深附近的觅食指南，都欢迎贡献。贡献的难度远比你想象得小，实在不行，也可以通过发邮件，或者在评论区评论的方式给这个项目添砖加瓦。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我不知道这个项目可以走多远，但是哪怕只有一位同学能从中获取一次资料而没被二道贩子宰，能在选课前少一点迷茫，或者从&lt;a href=&#34;http://localhost:1313/doc/#%e5%8f%8b%e9%93%be&#34;&gt;友链&lt;/a&gt;、博客中能获取到有价值的经验。只要这个项目能让流动的、易逝的东西稳定下来，我就已经满足了。&lt;/p&gt;
+&lt;p&gt;我不知道这个项目可以走多远，但是哪怕只有一位同学能从中获取一次资料而没被二道贩子宰，能在选课前少一点迷茫，或者从&lt;a href=&#34;https://openise.pages.dev/doc/#%e5%8f%8b%e9%93%be&#34;&gt;友链&lt;/a&gt;、博客中能获取到有价值的经验。只要这个项目能让流动的、易逝的东西稳定下来，我就已经满足了。&lt;/p&gt;
 
       </description>
     </item>
