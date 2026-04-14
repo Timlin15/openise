@@ -10,6 +10,8 @@ weight: 12
   {{< card link="大物下" title="大物下" >}}
   {{< card link="思政" title="思政" >}}
   {{< card link="概统" title="概统" >}}
+  {{< card link="电工电子技术" title="电工电子技术" >}}
+  {{< card link="电工电子技术实验" title="电工电子技术实验" >}}
   {{< card link="电路" title="电路" >}}
   {{< card link="电路理论基础实验" title="电路理论基础实验" >}}
   {{< card link="线代" title="线代" >}}
