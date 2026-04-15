@@ -5,5 +5,6 @@ weight: 41
 ---
 
 {{< cards >}}
+  {{< card link="生产实习" title="生产实习" >}}
   {{< card link="科技论文写作" title="科技论文写作" >}}
 {{< /cards >}}

@@ -13,6 +13,7 @@ weight: 21
   {{< card link="数字逻辑设计实验" title="传感器原理与应用" >}}
   {{< card link="数据结构与算法" title="数据结构与算法" >}}
   {{< card link="机器学习" title="机器学习" >}}
+  {{< card link="计算机网络" title="计算机网络" >}}
   {{< card link="认知科学基础" title="认知科学基础" >}}
   {{< card link="马克思主义基本原理" title="马克思主义基本原理" >}}
   {{< card link="高级程序设计及实验（C++）" title="C++程序设计" >}}
