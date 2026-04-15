@@ -1,5 +1,155 @@
 {
   "大一公共课程/大一上/C语言程序设计及实验": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "复习资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "2018-2019-1 C++A期末考试卷.doc": {
+              "_type": "file",
+              "name": "2018-2019-1 C++A期末考试卷.doc",
+              "size": 105472,
+              "sizeHuman": "103.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/2018-2019-1 C++A期末考试卷.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/2018-2019-1 C++A期末考试卷.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/2018-2019-1 C++A期末考试卷.doc"
+            },
+            "2020年大纲下2016年期末考题-附参考答案.docx": {
+              "_type": "file",
+              "name": "2020年大纲下2016年期末考题-附参考答案.docx",
+              "size": 19984,
+              "sizeHuman": "19.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/2020年大纲下2016年期末考题-附参考答案.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/2020年大纲下2016年期末考题-附参考答案.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/2020年大纲下2016年期末考题-附参考答案.docx"
+            },
+            "C++习题解答（第5版）.docx": {
+              "_type": "file",
+              "name": "C++习题解答（第5版）.docx",
+              "size": 1287225,
+              "sizeHuman": "1.2 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C++习题解答（第5版）.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C++习题解答（第5版）.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C++习题解答（第5版）.docx"
+            },
+            "C程序设计复习资料（CQL）.doc": {
+              "_type": "file",
+              "name": "C程序设计复习资料（CQL）.doc",
+              "size": 604672,
+              "sizeHuman": "590.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C程序设计复习资料（CQL）.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C程序设计复习资料（CQL）.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C程序设计复习资料（CQL）.doc"
+            },
+            "C语言全部知识点复习资料.pdf": {
+              "_type": "file",
+              "name": "C语言全部知识点复习资料.pdf",
+              "size": 318139,
+              "sizeHuman": "310.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言全部知识点复习资料.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言全部知识点复习资料.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言全部知识点复习资料.pdf"
+            },
+            "C语言程序设计基础知识期末复习.pdf": {
+              "_type": "file",
+              "name": "C语言程序设计基础知识期末复习.pdf",
+              "size": 482915,
+              "sizeHuman": "471.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计基础知识期末复习.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计基础知识期末复习.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计基础知识期末复习.pdf"
+            },
+            "C语言程序设计期末考试试题(含答案).doc": {
+              "_type": "file",
+              "name": "C语言程序设计期末考试试题(含答案).doc",
+              "size": 37376,
+              "sizeHuman": "36.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计期末考试试题(含答案).doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计期末考试试题(含答案).doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计期末考试试题(含答案).doc"
+            },
+            "C语言程序设计试题.doc": {
+              "_type": "file",
+              "name": "C语言程序设计试题.doc",
+              "size": 54784,
+              "sizeHuman": "53.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计试题.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计试题.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计试题.doc"
+            },
+            "C语言程序设计试题及答案.doc": {
+              "_type": "file",
+              "name": "C语言程序设计试题及答案.doc",
+              "size": 62464,
+              "sizeHuman": "61.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计试题及答案.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计试题及答案.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言程序设计试题及答案.doc"
+            },
+            "C语言综合复习题-1.pdf": {
+              "_type": "file",
+              "name": "C语言综合复习题-1.pdf",
+              "size": 365601,
+              "sizeHuman": "357.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言综合复习题-1.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言综合复习题-1.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/C语言综合复习题-1.pdf"
+            },
+            "《C语言程序设计》知识点总结.pdf": {
+              "_type": "file",
+              "name": "《C语言程序设计》知识点总结.pdf",
+              "size": 721455,
+              "sizeHuman": "704.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/《C语言程序设计》知识点总结.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/《C语言程序设计》知识点总结.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/《C语言程序设计》知识点总结.pdf"
+            },
+            "中大航院2020C语言期末考试试卷 -A卷.pdf": {
+              "_type": "file",
+              "name": "中大航院2020C语言期末考试试卷 -A卷.pdf",
+              "size": 258848,
+              "sizeHuman": "252.8 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/中大航院2020C语言期末考试试卷 -A卷.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/中大航院2020C语言期末考试试卷 -A卷.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/中大航院2020C语言期末考试试卷 -A卷.pdf"
+            },
+            "大学C语言期末考试练习题(带详解答案)（1）.doc": {
+              "_type": "file",
+              "name": "大学C语言期末考试练习题(带详解答案)（1）.doc",
+              "size": 418304,
+              "sizeHuman": "408.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/大学C语言期末考试练习题(带详解答案)（1）.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/大学C语言期末考试练习题(带详解答案)（1）.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/大学C语言期末考试练习题(带详解答案)（1）.doc"
+            },
+            "大学C语言期末考试练习题(带详解答案)（2）.doc": {
+              "_type": "file",
+              "name": "大学C语言期末考试练习题(带详解答案)（2）.doc",
+              "size": 344064,
+              "sizeHuman": "336.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/大学C语言期末考试练习题(带详解答案)（2）.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/大学C语言期末考试练习题(带详解答案)（2）.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/C语言程序设计及实验/2021年秋季学期/复习资料-方桂安/大学C语言期末考试练习题(带详解答案)（2）.doc"
+            }
+          }
+        }
+      }
+    },
     "2022年秋季学期": {
       "_type": "folder",
       "_children": {
@@ -1369,6 +1519,26 @@
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/2010级军事理论考试复习题目 （转自中大武装部）.doc",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/2010级军事理论考试复习题目 （转自中大武装部）.doc"
     },
+    "2020军事理论课复习资料.docx": {
+      "_type": "file",
+      "name": "2020军事理论课复习资料.docx",
+      "size": 34483,
+      "sizeHuman": "33.7 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/2020军事理论课复习资料.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/2020军事理论课复习资料.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/2020军事理论课复习资料.docx"
+    },
+    "2020级军事理论期末考试要点.pdf": {
+      "_type": "file",
+      "name": "2020级军事理论期末考试要点.pdf",
+      "size": 602929,
+      "sizeHuman": "588.8 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/2020级军事理论期末考试要点.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/2020级军事理论期末考试要点.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/2020级军事理论期末考试要点.pdf"
+    },
     "2021级军事理论a卷.pdf": {
       "_type": "file",
       "name": "2021级军事理论a卷.pdf",
@@ -1399,6 +1569,16 @@
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/376484688967538题库.pdf",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/376484688967538题库.pdf"
     },
+    "中山大学2010级军理考试题库.doc": {
+      "_type": "file",
+      "name": "中山大学2010级军理考试题库.doc",
+      "size": 101376,
+      "sizeHuman": "99.0 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/中山大学2010级军理考试题库.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/中山大学2010级军理考试题库.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/中山大学2010级军理考试题库.doc"
+    },
     "中山大学英语分级考试 真题.pdf": {
       "_type": "file",
       "name": "中山大学英语分级考试 真题.pdf",
@@ -1408,6 +1588,16 @@
       "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/中山大学英语分级考试 真题.pdf",
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/中山大学英语分级考试 真题.pdf",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/中山大学英语分级考试 真题.pdf"
+    },
+    "军事思想文本 究极精简版.doc": {
+      "_type": "file",
+      "name": "军事思想文本 究极精简版.doc",
+      "size": 112174,
+      "sizeHuman": "109.5 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军事思想文本 究极精简版.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军事思想文本 究极精简版.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军事思想文本 究极精简版.doc"
     },
     "军事理论名词解释.pdf": {
       "_type": "file",
@@ -1459,6 +1649,16 @@
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军事理论考试复习要点.pdf",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军事理论考试复习要点.pdf"
     },
+    "军事题库.pdf": {
+      "_type": "file",
+      "name": "军事题库.pdf",
+      "size": 257250,
+      "sizeHuman": "251.2 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军事题库.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军事题库.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军事题库.pdf"
+    },
     "军理200单选+100多选.docx": {
       "_type": "file",
       "name": "军理200单选+100多选.docx",
@@ -1489,6 +1689,56 @@
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理900题题库.docx",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理900题题库.docx"
     },
+    "军理主观题集合56.docx": {
+      "_type": "file",
+      "name": "军理主观题集合56.docx",
+      "size": 39498,
+      "sizeHuman": "38.6 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理主观题集合56.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理主观题集合56.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理主观题集合56.docx"
+    },
+    "军理分章节复习.doc": {
+      "_type": "file",
+      "name": "军理分章节复习.doc",
+      "size": 70656,
+      "sizeHuman": "69.0 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理分章节复习.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理分章节复习.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理分章节复习.doc"
+    },
+    "军理分章节题库.docx": {
+      "_type": "file",
+      "name": "军理分章节题库.docx",
+      "size": 109295,
+      "sizeHuman": "106.7 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理分章节题库.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理分章节题库.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理分章节题库.docx"
+    },
+    "军理判断题.docx": {
+      "_type": "file",
+      "name": "军理判断题.docx",
+      "size": 23879,
+      "sizeHuman": "23.3 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理判断题.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理判断题.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理判断题.docx"
+    },
+    "军理单选题.docx": {
+      "_type": "file",
+      "name": "军理单选题.docx",
+      "size": 23898,
+      "sizeHuman": "23.3 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理单选题.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理单选题.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理单选题.docx"
+    },
     "军理复习.docx": {
       "_type": "file",
       "name": "军理复习.docx",
@@ -1509,6 +1759,36 @@
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理复习题纲(1).doc",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理复习题纲(1).doc"
     },
+    "军理多选题.docx": {
+      "_type": "file",
+      "name": "军理多选题.docx",
+      "size": 28467,
+      "sizeHuman": "27.8 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理多选题.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理多选题.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理多选题.docx"
+    },
+    "军理懒人版.doc": {
+      "_type": "file",
+      "name": "军理懒人版.doc",
+      "size": 107041,
+      "sizeHuman": "104.5 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理懒人版.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理懒人版.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理懒人版.doc"
+    },
+    "军理烂到死版.doc": {
+      "_type": "file",
+      "name": "军理烂到死版.doc",
+      "size": 92473,
+      "sizeHuman": "90.3 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理烂到死版.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理烂到死版.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理烂到死版.doc"
+    },
     "军理考试900题库.docx": {
       "_type": "file",
       "name": "军理考试900题库.docx",
@@ -1518,6 +1798,16 @@
       "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理考试900题库.docx",
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理考试900题库.docx",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理考试900题库.docx"
+    },
+    "军理考试重点.docx": {
+      "_type": "file",
+      "name": "军理考试重点.docx",
+      "size": 36344,
+      "sizeHuman": "35.5 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理考试重点.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理考试重点.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理考试重点.docx"
     },
     "军理试题（最新版）.docx": {
       "_type": "file",
@@ -1539,6 +1829,26 @@
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理课学生会复习资料.pdf",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理课学生会复习资料.pdf"
     },
+    "军理问答题.docx": {
+      "_type": "file",
+      "name": "军理问答题.docx",
+      "size": 23536,
+      "sizeHuman": "23.0 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理问答题.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/军理问答题.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/军理问答题.docx"
+    },
+    "复习要点.doc": {
+      "_type": "file",
+      "name": "复习要点.doc",
+      "size": 55296,
+      "sizeHuman": "54.0 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/复习要点.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/复习要点.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/复习要点.doc"
+    },
     "大学军事理论考试重点.pdf": {
       "_type": "file",
       "name": "大学军事理论考试重点.pdf",
@@ -1548,6 +1858,16 @@
       "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/大学军事理论考试重点.pdf",
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/大学军事理论考试重点.pdf",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/大学军事理论考试重点.pdf"
+    },
+    "大学军事理论课选择题题库.docx": {
+      "_type": "file",
+      "name": "大学军事理论课选择题题库.docx",
+      "size": 65309,
+      "sizeHuman": "63.8 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/大学军事理论课选择题题库.docx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/大学军事理论课选择题题库.docx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/大学军事理论课选择题题库.docx"
     },
     "大学军事课教程（试用带水印）.pdf": {
       "_type": "file",
@@ -1568,9 +1888,161 @@
       "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/题库.docx",
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/题库.docx",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/题库.docx"
+    },
+    "题库.pdf": {
+      "_type": "file",
+      "name": "题库.pdf",
+      "size": 12364139,
+      "sizeHuman": "11.8 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/题库.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/军理/题库.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/军理/题库.pdf"
+    }
+  },
+  "大一公共课程/大一上/前沿讲座": {
+    "前沿讲座-1-TRIZ--引言.pdf": {
+      "_type": "file",
+      "name": "前沿讲座-1-TRIZ--引言.pdf",
+      "size": 1213931,
+      "sizeHuman": "1.2 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/前沿讲座-1-TRIZ--引言.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/前沿讲座-1-TRIZ--引言.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/前沿讲座-1-TRIZ--引言.pdf"
+    },
+    "前沿讲座-2-TRIZ-40原理.pdf": {
+      "_type": "file",
+      "name": "前沿讲座-2-TRIZ-40原理.pdf",
+      "size": 8456756,
+      "sizeHuman": "8.1 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/前沿讲座-2-TRIZ-40原理.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/前沿讲座-2-TRIZ-40原理.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/前沿讲座-2-TRIZ-40原理.pdf"
+    },
+    "博弈论.ppt": {
+      "_type": "file",
+      "name": "博弈论.ppt",
+      "size": 2259968,
+      "sizeHuman": "2.2 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/博弈论.ppt",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/博弈论.ppt",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/博弈论.ppt"
+    },
+    "市交通系统革命的遇、内涵与实践1021hzc - （去视频）.pdf": {
+      "_type": "file",
+      "name": "市交通系统革命的遇、内涵与实践1021hzc - （去视频）.pdf",
+      "size": 6935924,
+      "sizeHuman": "6.6 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/市交通系统革命的遇、内涵与实践1021hzc - （去视频）.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/市交通系统革命的遇、内涵与实践1021hzc - （去视频）.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/市交通系统革命的遇、内涵与实践1021hzc - （去视频）.pdf"
+    },
+    "新一代交通系统体系架构.pptx": {
+      "_type": "file",
+      "name": "新一代交通系统体系架构.pptx",
+      "size": 28110464,
+      "sizeHuman": "26.8 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/新一代交通系统体系架构.pptx",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/新一代交通系统体系架构.pptx",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/新一代交通系统体系架构.pptx"
+    },
+    "智能信息处理与智能系统(中大信息导论课讲座) [兼容模式].pdf": {
+      "_type": "file",
+      "name": "智能信息处理与智能系统(中大信息导论课讲座) [兼容模式].pdf",
+      "size": 909902,
+      "sizeHuman": "888.6 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/智能信息处理与智能系统(中大信息导论课讲座) [兼容模式].pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/智能信息处理与智能系统(中大信息导论课讲座) [兼容模式].pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/智能信息处理与智能系统(中大信息导论课讲座) [兼容模式].pdf"
+    },
+    "汽车主被动安全技术讲座-1112.pdf": {
+      "_type": "file",
+      "name": "汽车主被动安全技术讲座-1112.pdf",
+      "size": 11852546,
+      "sizeHuman": "11.3 MB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/汽车主被动安全技术讲座-1112.pdf",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/前沿讲座/汽车主被动安全技术讲座-1112.pdf",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/前沿讲座/汽车主被动安全技术讲座-1112.pdf"
     }
   },
   "大一公共课程/大一上/史纲": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "复习资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "中国近代史.docx": {
+              "_type": "file",
+              "name": "中国近代史.docx",
+              "size": 22989,
+              "sizeHuman": "22.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史.docx"
+            },
+            "中国近代史复习(大一上)(究极版).docx": {
+              "_type": "file",
+              "name": "中国近代史复习(大一上)(究极版).docx",
+              "size": 44123,
+              "sizeHuman": "43.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史复习(大一上)(究极版).docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史复习(大一上)(究极版).docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史复习(大一上)(究极版).docx"
+            },
+            "中国近代史纲要-重点知识点整理(纠错版20191123).pdf": {
+              "_type": "file",
+              "name": "中国近代史纲要-重点知识点整理(纠错版20191123).pdf",
+              "size": 477392,
+              "sizeHuman": "466.2 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史纲要-重点知识点整理(纠错版20191123).pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史纲要-重点知识点整理(纠错版20191123).pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史纲要-重点知识点整理(纠错版20191123).pdf"
+            },
+            "中国近代史纲要考试重点.pdf": {
+              "_type": "file",
+              "name": "中国近代史纲要考试重点.pdf",
+              "size": 447346,
+              "sizeHuman": "436.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史纲要考试重点.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史纲要考试重点.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中国近代史纲要考试重点.pdf"
+            },
+            "中山大学近现代史纲要课后习题答案.docx": {
+              "_type": "file",
+              "name": "中山大学近现代史纲要课后习题答案.docx",
+              "size": 24087,
+              "sizeHuman": "23.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中山大学近现代史纲要课后习题答案.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中山大学近现代史纲要课后习题答案.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/中山大学近现代史纲要课后习题答案.docx"
+            },
+            "近代史(庄＋贺)重点.docx": {
+              "_type": "file",
+              "name": "近代史(庄＋贺)重点.docx",
+              "size": 7480546,
+              "sizeHuman": "7.1 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/近代史(庄＋贺)重点.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/近代史(庄＋贺)重点.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/史纲/2021年秋季学期/复习资料-方桂安/近代史(庄＋贺)重点.docx"
+            }
+          }
+        }
+      }
+    },
     "习题": {
       "_type": "folder",
       "_children": {
@@ -2108,6 +2580,466 @@
     }
   },
   "大一公共课程/大一上/大物上": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "试卷": {
+              "_type": "folder",
+              "_children": {
+                "试卷及答案交大": {
+                  "_type": "folder",
+                  "_children": {
+                    "144参考答案2016.doc": {
+                      "_type": "file",
+                      "name": "144参考答案2016.doc",
+                      "size": 242688,
+                      "sizeHuman": "237.0 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/144参考答案2016.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/144参考答案2016.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/144参考答案2016.doc"
+                    },
+                    "144参考答案2017上.doc": {
+                      "_type": "file",
+                      "name": "144参考答案2017上.doc",
+                      "size": 200192,
+                      "sizeHuman": "195.5 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/144参考答案2017上.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/144参考答案2017上.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/144参考答案2017上.doc"
+                    },
+                    "2014A1期末试题.doc": {
+                      "_type": "file",
+                      "name": "2014A1期末试题.doc",
+                      "size": 2660352,
+                      "sizeHuman": "2.5 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2014A1期末试题.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2014A1期末试题.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2014A1期末试题.doc"
+                    },
+                    "2014A1期末试题参考解答.doc": {
+                      "_type": "file",
+                      "name": "2014A1期末试题参考解答.doc",
+                      "size": 3001856,
+                      "sizeHuman": "2.9 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2014A1期末试题参考解答.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2014A1期末试题参考解答.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2014A1期末试题参考解答.doc"
+                    },
+                    "2015-2016A.pdf": {
+                      "_type": "file",
+                      "name": "2015-2016A.pdf",
+                      "size": 1553062,
+                      "sizeHuman": "1.5 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015-2016A.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015-2016A.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015-2016A.pdf"
+                    },
+                    "2015A1期末试题.doc": {
+                      "_type": "file",
+                      "name": "2015A1期末试题.doc",
+                      "size": 4679168,
+                      "sizeHuman": "4.5 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015A1期末试题.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015A1期末试题.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015A1期末试题.doc"
+                    },
+                    "2015A1期末试题参考解答.doc": {
+                      "_type": "file",
+                      "name": "2015A1期末试题参考解答.doc",
+                      "size": 4409856,
+                      "sizeHuman": "4.2 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015A1期末试题参考解答.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015A1期末试题参考解答.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2015A1期末试题参考解答.doc"
+                    },
+                    "2016-2017A.pdf": {
+                      "_type": "file",
+                      "name": "2016-2017A.pdf",
+                      "size": 2179228,
+                      "sizeHuman": "2.1 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016-2017A.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016-2017A.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016-2017A.pdf"
+                    },
+                    "2016A1期末试题参考解答.doc": {
+                      "_type": "file",
+                      "name": "2016A1期末试题参考解答.doc",
+                      "size": 2396160,
+                      "sizeHuman": "2.3 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016A1期末试题参考解答.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016A1期末试题参考解答.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016A1期末试题参考解答.doc"
+                    },
+                    "2016年144A1期末试题.doc": {
+                      "_type": "file",
+                      "name": "2016年144A1期末试题.doc",
+                      "size": 1730048,
+                      "sizeHuman": "1.6 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016年144A1期末试题.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016年144A1期末试题.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2016年144A1期末试题.doc"
+                    },
+                    "2017-2018 B卷.pdf": {
+                      "_type": "file",
+                      "name": "2017-2018 B卷.pdf",
+                      "size": 2433202,
+                      "sizeHuman": "2.3 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017-2018 B卷.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017-2018 B卷.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017-2018 B卷.pdf"
+                    },
+                    "2017大学物理A1期末试题.doc": {
+                      "_type": "file",
+                      "name": "2017大学物理A1期末试题.doc",
+                      "size": 5022208,
+                      "sizeHuman": "4.8 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017大学物理A1期末试题.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017大学物理A1期末试题.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017大学物理A1期末试题.doc"
+                    },
+                    "2017大学物理A1期末试题参考解答.doc": {
+                      "_type": "file",
+                      "name": "2017大学物理A1期末试题参考解答.doc",
+                      "size": 4089856,
+                      "sizeHuman": "3.9 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017大学物理A1期末试题参考解答.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017大学物理A1期末试题参考解答.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2017大学物理A1期末试题参考解答.doc"
+                    },
+                    "2018-2019A.pdf": {
+                      "_type": "file",
+                      "name": "2018-2019A.pdf",
+                      "size": 2216550,
+                      "sizeHuman": "2.1 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2018-2019A.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2018-2019A.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2018-2019A.pdf"
+                    },
+                    "2018上128A参考答案.doc": {
+                      "_type": "file",
+                      "name": "2018上128A参考答案.doc",
+                      "size": 198656,
+                      "sizeHuman": "194.0 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2018上128A参考答案.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2018上128A参考答案.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2018上128A参考答案.doc"
+                    },
+                    "2019上A参考答案.pdf": {
+                      "_type": "file",
+                      "name": "2019上A参考答案.pdf",
+                      "size": 245111,
+                      "sizeHuman": "239.4 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2019上A参考答案.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2019上A参考答案.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2019上A参考答案.pdf"
+                    },
+                    "2020期末考卷(1).pdf": {
+                      "_type": "file",
+                      "name": "2020期末考卷(1).pdf",
+                      "size": 470473,
+                      "sizeHuman": "459.4 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2020期末考卷(1).pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2020期末考卷(1).pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2020期末考卷(1).pdf"
+                    },
+                    "2020期末（答案）.pdf": {
+                      "_type": "file",
+                      "name": "2020期末（答案）.pdf",
+                      "size": 432252,
+                      "sizeHuman": "422.1 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2020期末（答案）.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2020期末（答案）.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/2020期末（答案）.pdf"
+                    },
+                    "大物期末2015-2017.pdf": {
+                      "_type": "file",
+                      "name": "大物期末2015-2017.pdf",
+                      "size": 4896865,
+                      "sizeHuman": "4.7 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/大物期末2015-2017.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/大物期末2015-2017.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/试卷及答案交大/大物期末2015-2017.pdf"
+                    }
+                  }
+                },
+                "15级微电子普通物理I试卷A.doc": {
+                  "_type": "file",
+                  "name": "15级微电子普通物理I试卷A.doc",
+                  "size": 286816,
+                  "sizeHuman": "280.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/15级微电子普通物理I试卷A.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/15级微电子普通物理I试卷A.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/15级微电子普通物理I试卷A.doc"
+                },
+                "17级期中考试答案（无考卷）.pdf": {
+                  "_type": "file",
+                  "name": "17级期中考试答案（无考卷）.pdf",
+                  "size": 468673,
+                  "sizeHuman": "457.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/17级期中考试答案（无考卷）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/17级期中考试答案（无考卷）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/17级期中考试答案（无考卷）.pdf"
+                },
+                "2014.pdf": {
+                  "_type": "file",
+                  "name": "2014.pdf",
+                  "size": 253688,
+                  "sizeHuman": "247.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2014.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2014.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2014.pdf"
+                },
+                "2014期末普通物理I.pdf": {
+                  "_type": "file",
+                  "name": "2014期末普通物理I.pdf",
+                  "size": 253688,
+                  "sizeHuman": "247.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2014期末普通物理I.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2014期末普通物理I.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2014期末普通物理I.pdf"
+                },
+                "2019下半年大学物理学2电学知识测验.doc": {
+                  "_type": "file",
+                  "name": "2019下半年大学物理学2电学知识测验.doc",
+                  "size": 289280,
+                  "sizeHuman": "282.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2019下半年大学物理学2电学知识测验.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2019下半年大学物理学2电学知识测验.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2019下半年大学物理学2电学知识测验.doc"
+                },
+                "2019学年大学物理【工】期末考试题.docx": {
+                  "_type": "file",
+                  "name": "2019学年大学物理【工】期末考试题.docx",
+                  "size": 1331708,
+                  "sizeHuman": "1.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2019学年大学物理【工】期末考试题.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2019学年大学物理【工】期末考试题.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/2019学年大学物理【工】期末考试题.docx"
+                },
+                "20大学物理I-工科期中 答案A.pdf": {
+                  "_type": "file",
+                  "name": "20大学物理I-工科期中 答案A.pdf",
+                  "size": 564630,
+                  "sizeHuman": "551.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/20大学物理I-工科期中 答案A.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/20大学物理I-工科期中 答案A.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/20大学物理I-工科期中 答案A.pdf"
+                },
+                "大学物理（工）.pdf": {
+                  "_type": "file",
+                  "name": "大学物理（工）.pdf",
+                  "size": 554100,
+                  "sizeHuman": "541.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/大学物理（工）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/大学物理（工）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/大学物理（工）.pdf"
+                },
+                "大物样卷.docx": {
+                  "_type": "file",
+                  "name": "大物样卷.docx",
+                  "size": 342465,
+                  "sizeHuman": "334.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/大物样卷.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/大物样卷.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/大物样卷.docx"
+                },
+                "样卷20180627_试卷.pdf": {
+                  "_type": "file",
+                  "name": "样卷20180627_试卷.pdf",
+                  "size": 185508,
+                  "sizeHuman": "181.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/样卷20180627_试卷.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/样卷20180627_试卷.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/样卷20180627_试卷.pdf"
+                },
+                "模拟题.docx": {
+                  "_type": "file",
+                  "name": "模拟题.docx",
+                  "size": 209126,
+                  "sizeHuman": "204.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/模拟题.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/模拟题.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/模拟题.docx"
+                },
+                "清华大学物理试题库所有习题.docx": {
+                  "_type": "file",
+                  "name": "清华大学物理试题库所有习题.docx",
+                  "size": 4539315,
+                  "sizeHuman": "4.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/清华大学物理试题库所有习题.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/清华大学物理试题库所有习题.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/清华大学物理试题库所有习题.docx"
+                },
+                "物理考题.pdf": {
+                  "_type": "file",
+                  "name": "物理考题.pdf",
+                  "size": 318690,
+                  "sizeHuman": "311.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/物理考题.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/物理考题.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/物理考题.pdf"
+                },
+                "题库样卷201806271.pdf": {
+                  "_type": "file",
+                  "name": "题库样卷201806271.pdf",
+                  "size": 477709,
+                  "sizeHuman": "466.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/题库样卷201806271.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/题库样卷201806271.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/试卷/题库样卷201806271.pdf"
+                }
+              }
+            },
+            "《力学》讲义笔记【高斯课堂】.pdf": {
+              "_type": "file",
+              "name": "《力学》讲义笔记【高斯课堂】.pdf",
+              "size": 1408372,
+              "sizeHuman": "1.3 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《力学》讲义笔记【高斯课堂】.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《力学》讲义笔记【高斯课堂】.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《力学》讲义笔记【高斯课堂】.pdf"
+            },
+            "《大学物理》.doc": {
+              "_type": "file",
+              "name": "《大学物理》.doc",
+              "size": 930304,
+              "sizeHuman": "908.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《大学物理》.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《大学物理》.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《大学物理》.doc"
+            },
+            "《气体与热力学》讲义笔记【高斯课堂】.pdf": {
+              "_type": "file",
+              "name": "《气体与热力学》讲义笔记【高斯课堂】.pdf",
+              "size": 461583,
+              "sizeHuman": "450.8 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《气体与热力学》讲义笔记【高斯课堂】.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《气体与热力学》讲义笔记【高斯课堂】.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/《气体与热力学》讲义笔记【高斯课堂】.pdf"
+            },
+            "大学物理下(计算题).docx": {
+              "_type": "file",
+              "name": "大学物理下(计算题).docx",
+              "size": 19957233,
+              "sizeHuman": "19.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理下(计算题).docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理下(计算题).docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理下(计算题).docx"
+            },
+            "大学物理习题答案.doc": {
+              "_type": "file",
+              "name": "大学物理习题答案.doc",
+              "size": 148778,
+              "sizeHuman": "145.3 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理习题答案.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理习题答案.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理习题答案.doc"
+            },
+            "大学物理公式大全.doc": {
+              "_type": "file",
+              "name": "大学物理公式大全.doc",
+              "size": 339968,
+              "sizeHuman": "332.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理公式大全.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理公式大全.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理公式大全.doc"
+            },
+            "大学物理公式总结.doc": {
+              "_type": "file",
+              "name": "大学物理公式总结.doc",
+              "size": 856064,
+              "sizeHuman": "836.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理公式总结.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理公式总结.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理公式总结.doc"
+            },
+            "大学物理基础.doc": {
+              "_type": "file",
+              "name": "大学物理基础.doc",
+              "size": 452219,
+              "sizeHuman": "441.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理基础.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理基础.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理基础.doc"
+            },
+            "大学物理复习.pdf": {
+              "_type": "file",
+              "name": "大学物理复习.pdf",
+              "size": 351242,
+              "sizeHuman": "343.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理复习.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理复习.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理复习.pdf"
+            },
+            "大学物理知识点.pdf": {
+              "_type": "file",
+              "name": "大学物理知识点.pdf",
+              "size": 575586,
+              "sizeHuman": "562.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理知识点.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理知识点.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/大学物理知识点.pdf"
+            },
+            "振动与波动讲义笔记【高斯课堂】.pdf": {
+              "_type": "file",
+              "name": "振动与波动讲义笔记【高斯课堂】.pdf",
+              "size": 591581,
+              "sizeHuman": "577.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/振动与波动讲义笔记【高斯课堂】.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/振动与波动讲义笔记【高斯课堂】.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/大物上/2021年秋季学期/真题与复习-方桂安/振动与波动讲义笔记【高斯课堂】.pdf"
+            }
+          }
+        }
+      }
+    },
     "17大学物理期末答案二.pdf": {
       "_type": "file",
       "name": "17大学物理期末答案二.pdf",
@@ -2390,6 +3322,76 @@
     }
   },
   "大一公共课程/大一上/工图与CAD": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "AutoCAD学习笔记.docx": {
+              "_type": "file",
+              "name": "AutoCAD学习笔记.docx",
+              "size": 2103592,
+              "sizeHuman": "2.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/AutoCAD学习笔记.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/AutoCAD学习笔记.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/AutoCAD学习笔记.docx"
+            },
+            "大一上期末考工图总结.doc": {
+              "_type": "file",
+              "name": "大一上期末考工图总结.doc",
+              "size": 460800,
+              "sizeHuman": "450.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/大一上期末考工图总结.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/大一上期末考工图总结.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/大一上期末考工图总结.doc"
+            },
+            "工图基本知识.doc": {
+              "_type": "file",
+              "name": "工图基本知识.doc",
+              "size": 49152,
+              "sizeHuman": "48.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工图基本知识.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工图基本知识.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工图基本知识.doc"
+            },
+            "工程制图期末考试模拟.pdf": {
+              "_type": "file",
+              "name": "工程制图期末考试模拟.pdf",
+              "size": 602856,
+              "sizeHuman": "588.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程制图期末考试模拟.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程制图期末考试模拟.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程制图期末考试模拟.pdf"
+            },
+            "工程制图知识点.docx": {
+              "_type": "file",
+              "name": "工程制图知识点.docx",
+              "size": 127360,
+              "sizeHuman": "124.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程制图知识点.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程制图知识点.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程制图知识点.docx"
+            },
+            "工程图识图技巧.doc": {
+              "_type": "file",
+              "name": "工程图识图技巧.doc",
+              "size": 5221607,
+              "sizeHuman": "5.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程图识图技巧.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程图识图技巧.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/工图与CAD/2021年秋季学期/资料-方桂安/工程图识图技巧.doc"
+            }
+          }
+        }
+      }
+    },
     "习题总结PPT_总": {
       "_type": "folder",
       "_children": {
@@ -2925,7 +3927,649 @@
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/程设/中山大学《C语言程序设计》2022-2023年期末试卷.pdf"
     }
   },
+  "大一公共课程/大一上/线代": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "复习题": {
+              "_type": "folder",
+              "_children": {
+                "中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).doc": {
+                  "_type": "file",
+                  "name": "中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).doc",
+                  "size": 517478,
+                  "sizeHuman": "505.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).doc"
+                },
+                "中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).pdf": {
+                  "_type": "file",
+                  "name": "中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).pdf",
+                  "size": 466586,
+                  "sizeHuman": "455.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/中山大学线性代数2011年期中考试模拟题及标准答案(教材同济第5版1-3章).pdf"
+                },
+                "线代2017（期末模拟V2).pdf": {
+                  "_type": "file",
+                  "name": "线代2017（期末模拟V2).pdf",
+                  "size": 694493,
+                  "sizeHuman": "678.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线代2017（期末模拟V2).pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线代2017（期末模拟V2).pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线代2017（期末模拟V2).pdf"
+                },
+                "线代总复习题.doc": {
+                  "_type": "file",
+                  "name": "线代总复习题.doc",
+                  "size": 129024,
+                  "sizeHuman": "126.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线代总复习题.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线代总复习题.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线代总复习题.doc"
+                },
+                "线性代数模拟期末考试答案与方法提示.pdf": {
+                  "_type": "file",
+                  "name": "线性代数模拟期末考试答案与方法提示.pdf",
+                  "size": 328656,
+                  "sizeHuman": "321.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线性代数模拟期末考试答案与方法提示.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线性代数模拟期末考试答案与方法提示.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/复习题/线性代数模拟期末考试答案与方法提示.pdf"
+                }
+              }
+            },
+            "考试真题": {
+              "_type": "folder",
+              "_children": {
+                "11 级": {
+                  "_type": "folder",
+                  "_children": {
+                    "期末": {
+                      "_type": "folder",
+                      "_children": {
+                        "2011线性代数期末试题(B).pdf": {
+                          "_type": "file",
+                          "name": "2011线性代数期末试题(B).pdf",
+                          "size": 93413,
+                          "sizeHuman": "91.2 KB",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/11 级/期末/2011线性代数期末试题(B).pdf",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/11 级/期末/2011线性代数期末试题(B).pdf",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/11 级/期末/2011线性代数期末试题(B).pdf"
+                        }
+                      }
+                    }
+                  }
+                },
+                "13级": {
+                  "_type": "folder",
+                  "_children": {
+                    "线代总复习题.doc": {
+                      "_type": "file",
+                      "name": "线代总复习题.doc",
+                      "size": 129024,
+                      "sizeHuman": "126.0 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/13级/线代总复习题.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/13级/线代总复习题.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/13级/线代总复习题.doc"
+                    },
+                    "线性代数A卷.doc": {
+                      "_type": "file",
+                      "name": "线性代数A卷.doc",
+                      "size": 82944,
+                      "sizeHuman": "81.0 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/13级/线性代数A卷.doc",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/13级/线性代数A卷.doc",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/13级/线性代数A卷.doc"
+                    }
+                  }
+                },
+                "线代往年期末卷": {
+                  "_type": "folder",
+                  "_children": {
+                    "10年线代期末考试试题": {
+                      "_type": "folder",
+                      "_children": {
+                        "2010线性代数期末考试试题.pdf": {
+                          "_type": "file",
+                          "name": "2010线性代数期末考试试题.pdf",
+                          "size": 205025,
+                          "sizeHuman": "200.2 KB",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/10年线代期末考试试题/2010线性代数期末考试试题.pdf",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/10年线代期末考试试题/2010线性代数期末考试试题.pdf",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/10年线代期末考试试题/2010线性代数期末考试试题.pdf"
+                        }
+                      }
+                    },
+                    "07线数期末试题.pdf": {
+                      "_type": "file",
+                      "name": "07线数期末试题.pdf",
+                      "size": 193320,
+                      "sizeHuman": "188.8 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/07线数期末试题.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/07线数期末试题.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/07线数期末试题.pdf"
+                    },
+                    "08、09、11年线代期中卷.pdf": {
+                      "_type": "file",
+                      "name": "08、09、11年线代期中卷.pdf",
+                      "size": 751351,
+                      "sizeHuman": "733.7 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/08、09、11年线代期中卷.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/08、09、11年线代期中卷.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/08、09、11年线代期中卷.pdf"
+                    },
+                    "08线代期末试题.pdf": {
+                      "_type": "file",
+                      "name": "08线代期末试题.pdf",
+                      "size": 183200,
+                      "sizeHuman": "178.9 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/08线代期末试题.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/08线代期末试题.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/08线代期末试题.pdf"
+                    },
+                    "09年线性代数考试题（B）.pdf": {
+                      "_type": "file",
+                      "name": "09年线性代数考试题（B）.pdf",
+                      "size": 141804,
+                      "sizeHuman": "138.5 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/09年线性代数考试题（B）.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/09年线性代数考试题（B）.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/09年线性代数考试题（B）.pdf"
+                    },
+                    "2009度第一学期《线性代数》期中考试卷.pdf": {
+                      "_type": "file",
+                      "name": "2009度第一学期《线性代数》期中考试卷.pdf",
+                      "size": 329874,
+                      "sizeHuman": "322.1 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/2009度第一学期《线性代数》期中考试卷.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/2009度第一学期《线性代数》期中考试卷.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/2009度第一学期《线性代数》期中考试卷.pdf"
+                    },
+                    "【14期末】线性代数.pdf": {
+                      "_type": "file",
+                      "name": "【14期末】线性代数.pdf",
+                      "size": 595290,
+                      "sizeHuman": "581.3 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/【14期末】线性代数.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/【14期末】线性代数.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/【14期末】线性代数.pdf"
+                    },
+                    "另一份07线数期末试题.pdf": {
+                      "_type": "file",
+                      "name": "另一份07线数期末试题.pdf",
+                      "size": 151333,
+                      "sizeHuman": "147.8 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/另一份07线数期末试题.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/另一份07线数期末试题.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代往年期末卷/另一份07线数期末试题.pdf"
+                    }
+                  }
+                },
+                "2019.pdf": {
+                  "_type": "file",
+                  "name": "2019.pdf",
+                  "size": 283843,
+                  "sizeHuman": "277.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/2019.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/2019.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/2019.pdf"
+                },
+                "2019答案.pdf": {
+                  "_type": "file",
+                  "name": "2019答案.pdf",
+                  "size": 517474,
+                  "sizeHuman": "505.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/2019答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/2019答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/2019答案.pdf"
+                },
+                "线代期中考试2020.pdf": {
+                  "_type": "file",
+                  "name": "线代期中考试2020.pdf",
+                  "size": 1494525,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代期中考试2020.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代期中考试2020.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/考试真题/线代期中考试2020.pdf"
+                }
+              }
+            },
+            "《线性代数》知识点-归纳整理.doc": {
+              "_type": "file",
+              "name": "《线性代数》知识点-归纳整理.doc",
+              "size": 521392,
+              "sizeHuman": "509.2 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/《线性代数》知识点-归纳整理.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/《线性代数》知识点-归纳整理.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/《线性代数》知识点-归纳整理.doc"
+            },
+            "八大常见类型的行列式及其解法.pdf": {
+              "_type": "file",
+              "name": "八大常见类型的行列式及其解法.pdf",
+              "size": 513987,
+              "sizeHuman": "501.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/八大常见类型的行列式及其解法.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/八大常见类型的行列式及其解法.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/八大常见类型的行列式及其解法.pdf"
+            },
+            "线代复习课.pdf": {
+              "_type": "file",
+              "name": "线代复习课.pdf",
+              "size": 1173232,
+              "sizeHuman": "1.1 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线代复习课.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线代复习课.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线代复习课.pdf"
+            },
+            "线性代数公式必记.pdf": {
+              "_type": "file",
+              "name": "线性代数公式必记.pdf",
+              "size": 292970,
+              "sizeHuman": "286.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数公式必记.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数公式必记.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数公式必记.pdf"
+            },
+            "线性代数复习提纲.pdf": {
+              "_type": "file",
+              "name": "线性代数复习提纲.pdf",
+              "size": 547575,
+              "sizeHuman": "534.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数复习提纲.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数复习提纲.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数复习提纲.pdf"
+            },
+            "线性代数期末考试复习资料.pdf": {
+              "_type": "file",
+              "name": "线性代数期末考试复习资料.pdf",
+              "size": 359272,
+              "sizeHuman": "350.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数期末考试复习资料.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数期末考试复习资料.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数期末考试复习资料.pdf"
+            },
+            "线性代数概念、性质、定理、公式整理.pdf": {
+              "_type": "file",
+              "name": "线性代数概念、性质、定理、公式整理.pdf",
+              "size": 710336,
+              "sizeHuman": "693.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数概念、性质、定理、公式整理.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数概念、性质、定理、公式整理.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数概念、性质、定理、公式整理.pdf"
+            },
+            "线性代数知识点总结汇总.pdf": {
+              "_type": "file",
+              "name": "线性代数知识点总结汇总.pdf",
+              "size": 676605,
+              "sizeHuman": "660.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数知识点总结汇总.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数知识点总结汇总.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数知识点总结汇总.pdf"
+            },
+            "线性代数知识点汇总.pdf": {
+              "_type": "file",
+              "name": "线性代数知识点汇总.pdf",
+              "size": 296656,
+              "sizeHuman": "289.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数知识点汇总.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数知识点汇总.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数知识点汇总.pdf"
+            },
+            "线性代数超强的总结.pdf": {
+              "_type": "file",
+              "name": "线性代数超强的总结.pdf",
+              "size": 541207,
+              "sizeHuman": "528.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数超强的总结.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数超强的总结.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/线代/2021年秋季学期/真题与复习资料-方桂安/线性代数超强的总结.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
   "大一公共课程/大一上/英语": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "up分享资料": {
+              "_type": "folder",
+              "_children": {
+                "2021上半年社会热点.pdf": {
+                  "_type": "file",
+                  "name": "2021上半年社会热点.pdf",
+                  "size": 177776,
+                  "sizeHuman": "173.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021上半年社会热点.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021上半年社会热点.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021上半年社会热点.pdf"
+                },
+                "2021下翻译预测part1-分享版.pdf": {
+                  "_type": "file",
+                  "name": "2021下翻译预测part1-分享版.pdf",
+                  "size": 209327,
+                  "sizeHuman": "204.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021下翻译预测part1-分享版.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021下翻译预测part1-分享版.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021下翻译预测part1-分享版.pdf"
+                },
+                "2021年7月8月社会热点官方翻译.pdf": {
+                  "_type": "file",
+                  "name": "2021年7月8月社会热点官方翻译.pdf",
+                  "size": 177612,
+                  "sizeHuman": "173.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021年7月8月社会热点官方翻译.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021年7月8月社会热点官方翻译.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/2021年7月8月社会热点官方翻译.pdf"
+                },
+                "21新增词汇.pdf": {
+                  "_type": "file",
+                  "name": "21新增词汇.pdf",
+                  "size": 162914,
+                  "sizeHuman": "159.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/21新增词汇.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/21新增词汇.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/21新增词汇.pdf"
+                },
+                "63组替换词完整版.pdf": {
+                  "_type": "file",
+                  "name": "63组替换词完整版.pdf",
+                  "size": 6447113,
+                  "sizeHuman": "6.1 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/63组替换词完整版.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/63组替换词完整版.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/63组替换词完整版.pdf"
+                },
+                "传统文化翻译.pdf": {
+                  "_type": "file",
+                  "name": "传统文化翻译.pdf",
+                  "size": 601186,
+                  "sizeHuman": "587.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/传统文化翻译.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/传统文化翻译.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/传统文化翻译.pdf"
+                },
+                "友谊.pdf": {
+                  "_type": "file",
+                  "name": "友谊.pdf",
+                  "size": 223227,
+                  "sizeHuman": "218.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/友谊.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/友谊.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/友谊.pdf"
+                },
+                "四六级官方大纲和词汇表（打印密码官方设的我也母鸡）.pdf": {
+                  "_type": "file",
+                  "name": "四六级官方大纲和词汇表（打印密码官方设的我也母鸡）.pdf",
+                  "size": 12070155,
+                  "sizeHuman": "11.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/四六级官方大纲和词汇表（打印密码官方设的我也母鸡）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/四六级官方大纲和词汇表（打印密码官方设的我也母鸡）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/四六级官方大纲和词汇表（打印密码官方设的我也母鸡）.pdf"
+                },
+                "套模板.pdf": {
+                  "_type": "file",
+                  "name": "套模板.pdf",
+                  "size": 290641,
+                  "sizeHuman": "283.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/套模板.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/套模板.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/套模板.pdf"
+                },
+                "教育 政府类话题词.pdf": {
+                  "_type": "file",
+                  "name": "教育 政府类话题词.pdf",
+                  "size": 555989,
+                  "sizeHuman": "543.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/教育 政府类话题词.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/教育 政府类话题词.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/教育 政府类话题词.pdf"
+                },
+                "漫画类+书信类.pdf": {
+                  "_type": "file",
+                  "name": "漫画类+书信类.pdf",
+                  "size": 333013,
+                  "sizeHuman": "325.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/漫画类+书信类.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/漫画类+书信类.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/漫画类+书信类.pdf"
+                },
+                "翻译预测Part2.pdf": {
+                  "_type": "file",
+                  "name": "翻译预测Part2.pdf",
+                  "size": 784419,
+                  "sizeHuman": "766.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/翻译预测Part2.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/翻译预测Part2.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/翻译预测Part2.pdf"
+                },
+                "考研词汇表.pdf": {
+                  "_type": "file",
+                  "name": "考研词汇表.pdf",
+                  "size": 5865494,
+                  "sizeHuman": "5.6 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/考研词汇表.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/考研词汇表.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/up分享资料/考研词汇表.pdf"
+                }
+              }
+            },
+            "(整理)大学英语语法大全(最新整理)..doc": {
+              "_type": "file",
+              "name": "(整理)大学英语语法大全(最新整理)..doc",
+              "size": 696832,
+              "sizeHuman": "680.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/(整理)大学英语语法大全(最新整理)..doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/(整理)大学英语语法大全(最新整理)..doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/(整理)大学英语语法大全(最新整理)..doc"
+            },
+            "12月大学英语六级真题及答案.doc": {
+              "_type": "file",
+              "name": "12月大学英语六级真题及答案.doc",
+              "size": 173568,
+              "sizeHuman": "169.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/12月大学英语六级真题及答案.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/12月大学英语六级真题及答案.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/12月大学英语六级真题及答案.doc"
+            },
+            "2016年6、12月英语六级真题(含答案).docx": {
+              "_type": "file",
+              "name": "2016年6、12月英语六级真题(含答案).docx",
+              "size": 107675,
+              "sizeHuman": "105.2 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2016年6、12月英语六级真题(含答案).docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2016年6、12月英语六级真题(含答案).docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2016年6、12月英语六级真题(含答案).docx"
+            },
+            "2017年全国大学英语六级(CET-6)考试真题及解析.docx": {
+              "_type": "file",
+              "name": "2017年全国大学英语六级(CET-6)考试真题及解析.docx",
+              "size": 29501,
+              "sizeHuman": "28.8 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2017年全国大学英语六级(CET-6)考试真题及解析.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2017年全国大学英语六级(CET-6)考试真题及解析.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2017年全国大学英语六级(CET-6)考试真题及解析.docx"
+            },
+            "2018年英语四六级词汇大全.doc": {
+              "_type": "file",
+              "name": "2018年英语四六级词汇大全.doc",
+              "size": 458196,
+              "sizeHuman": "447.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2018年英语四六级词汇大全.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2018年英语四六级词汇大全.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/2018年英语四六级词汇大全.doc"
+            },
+            "四六级常用词组.pdf": {
+              "_type": "file",
+              "name": "四六级常用词组.pdf",
+              "size": 326200,
+              "sizeHuman": "318.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/四六级常用词组.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/四六级常用词组.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/四六级常用词组.pdf"
+            },
+            "大学英语语法专项练习题及答案.docx": {
+              "_type": "file",
+              "name": "大学英语语法专项练习题及答案.docx",
+              "size": 39972,
+              "sizeHuman": "39.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法专项练习题及答案.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法专项练习题及答案.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法专项练习题及答案.docx"
+            },
+            "大学英语语法及练习.doc": {
+              "_type": "file",
+              "name": "大学英语语法及练习.doc",
+              "size": 490496,
+              "sizeHuman": "479.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法及练习.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法及练习.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法及练习.doc"
+            },
+            "大学英语语法大全-太经典了.pdf": {
+              "_type": "file",
+              "name": "大学英语语法大全-太经典了.pdf",
+              "size": 1408157,
+              "sizeHuman": "1.3 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法大全-太经典了.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法大全-太经典了.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法大全-太经典了.pdf"
+            },
+            "大学英语语法汇总.doc": {
+              "_type": "file",
+              "name": "大学英语语法汇总.doc",
+              "size": 204800,
+              "sizeHuman": "200.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法汇总.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法汇总.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/大学英语语法汇总.doc"
+            },
+            "整理大学英语语法选择题部分.doc": {
+              "_type": "file",
+              "name": "整理大学英语语法选择题部分.doc",
+              "size": 1302016,
+              "sizeHuman": "1.2 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/整理大学英语语法选择题部分.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/整理大学英语语法选择题部分.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/整理大学英语语法选择题部分.doc"
+            },
+            "英语四六级考试作文万能句大全.doc": {
+              "_type": "file",
+              "name": "英语四六级考试作文万能句大全.doc",
+              "size": 124928,
+              "sizeHuman": "122.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级考试作文万能句大全.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级考试作文万能句大全.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级考试作文万能句大全.doc"
+            },
+            "英语四六级词汇大全(四级部分)乱序.doc": {
+              "_type": "file",
+              "name": "英语四六级词汇大全(四级部分)乱序.doc",
+              "size": 349184,
+              "sizeHuman": "341.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级词汇大全(四级部分)乱序.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级词汇大全(四级部分)乱序.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级词汇大全(四级部分)乱序.doc"
+            },
+            "英语四六级：如何在短期内利用答题小技巧提分100+.docx": {
+              "_type": "file",
+              "name": "英语四六级：如何在短期内利用答题小技巧提分100+.docx",
+              "size": 27189,
+              "sizeHuman": "26.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级：如何在短期内利用答题小技巧提分100+.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级：如何在短期内利用答题小技巧提分100+.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四六级：如何在短期内利用答题小技巧提分100+.docx"
+            },
+            "英语四级整理笔记.doc": {
+              "_type": "file",
+              "name": "英语四级整理笔记.doc",
+              "size": 507312,
+              "sizeHuman": "495.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四级整理笔记.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四级整理笔记.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语四级整理笔记.doc"
+            },
+            "英语语法大全.doc": {
+              "_type": "file",
+              "name": "英语语法大全.doc",
+              "size": 465920,
+              "sizeHuman": "455.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语语法大全.doc",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语语法大全.doc",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一上/英语/2021年秋季学期/资料-方桂安/英语语法大全.doc"
+            }
+          }
+        }
+      }
+    },
     "中山大学《大学英语》2018-2019学年期末试卷A卷.pdf": {
       "_type": "file",
       "name": "中山大学《大学英语》2018-2019学年期末试卷A卷.pdf",
