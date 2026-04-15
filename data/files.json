@@ -5099,6 +5099,76 @@
     }
   },
   "大一公共课程/大一下/人工智能导论": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验与大作业-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "8 puzzle": {
+              "_type": "folder",
+              "_children": {
+                "code.cpp": {
+                  "_type": "file",
+                  "name": "code.cpp",
+                  "size": 10726,
+                  "sizeHuman": "10.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/8 puzzle/code.cpp",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/8 puzzle/code.cpp",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/8 puzzle/code.cpp"
+                }
+              }
+            },
+            "NUWA": {
+              "_type": "folder",
+              "_children": {
+                "assets": {
+                  "_type": "folder",
+                  "_children": {
+                    "NUWA.pdf": {
+                      "_type": "file",
+                      "name": "NUWA.pdf",
+                      "size": 8101570,
+                      "sizeHuman": "7.7 MB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/NUWA/assets/NUWA.pdf",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/NUWA/assets/NUWA.pdf",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/NUWA/assets/NUWA.pdf"
+                    }
+                  }
+                },
+                "NUWA.pptx": {
+                  "_type": "file",
+                  "name": "NUWA.pptx",
+                  "size": 44704740,
+                  "sizeHuman": "42.6 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/NUWA/NUWA.pptx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/NUWA/NUWA.pptx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/NUWA/NUWA.pptx"
+                }
+              }
+            },
+            "review": {
+              "_type": "folder",
+              "_children": {
+                "人工智能导论综述论文.pdf": {
+                  "_type": "file",
+                  "name": "人工智能导论综述论文.pdf",
+                  "size": 4901476,
+                  "sizeHuman": "4.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/review/人工智能导论综述论文.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/review/人工智能导论综述论文.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能导论/2021年秋季学期/实验与大作业-方桂安/review/人工智能导论综述论文.pdf"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "人工智能导论报告.docx": {
       "_type": "file",
       "name": "人工智能导论报告.docx",
@@ -5131,6 +5201,121 @@
     }
   },
   "大一公共课程/大一下/人工智能编程语言": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验与大作业-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "期末大作业": {
+              "_type": "folder",
+              "_children": {
+                "ISE128_期末大作业.docx": {
+                  "_type": "file",
+                  "name": "ISE128_期末大作业.docx",
+                  "size": 808792,
+                  "sizeHuman": "789.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/期末大作业/ISE128_期末大作业.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/期末大作业/ISE128_期末大作业.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/期末大作业/ISE128_期末大作业.docx"
+                }
+              }
+            },
+            "ISE128_作业_1.docx": {
+              "_type": "file",
+              "name": "ISE128_作业_1.docx",
+              "size": 180745,
+              "sizeHuman": "176.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_作业_1.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_作业_1.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_作业_1.docx"
+            },
+            "ISE128_实验1_变量，数组运算及多项式.docx": {
+              "_type": "file",
+              "name": "ISE128_实验1_变量，数组运算及多项式.docx",
+              "size": 47184,
+              "sizeHuman": "46.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验1_变量，数组运算及多项式.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验1_变量，数组运算及多项式.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验1_变量，数组运算及多项式.docx"
+            },
+            "ISE128_实验2_结构化程序和函数.docx": {
+              "_type": "file",
+              "name": "ISE128_实验2_结构化程序和函数.docx",
+              "size": 47916,
+              "sizeHuman": "46.8 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验2_结构化程序和函数.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验2_结构化程序和函数.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验2_结构化程序和函数.docx"
+            },
+            "ISE128_实验3_变量_文件读取_函数调用.docx": {
+              "_type": "file",
+              "name": "ISE128_实验3_变量_文件读取_函数调用.docx",
+              "size": 89217,
+              "sizeHuman": "87.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验3_变量_文件读取_函数调用.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验3_变量_文件读取_函数调用.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验3_变量_文件读取_函数调用.docx"
+            },
+            "ISE128_实验4_基础和高阶绘图.docx": {
+              "_type": "file",
+              "name": "ISE128_实验4_基础和高阶绘图.docx",
+              "size": 548261,
+              "sizeHuman": "535.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验4_基础和高阶绘图.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验4_基础和高阶绘图.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验4_基础和高阶绘图.docx"
+            },
+            "ISE128_实验5_Python基础知识和基本数据类型.docx": {
+              "_type": "file",
+              "name": "ISE128_实验5_Python基础知识和基本数据类型.docx",
+              "size": 150202,
+              "sizeHuman": "146.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验5_Python基础知识和基本数据类型.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验5_Python基础知识和基本数据类型.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验5_Python基础知识和基本数据类型.docx"
+            },
+            "ISE128_实验6_Python集合_函数和模块操作.docx": {
+              "_type": "file",
+              "name": "ISE128_实验6_Python集合_函数和模块操作.docx",
+              "size": 38929,
+              "sizeHuman": "38.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验6_Python集合_函数和模块操作.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验6_Python集合_函数和模块操作.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验6_Python集合_函数和模块操作.docx"
+            },
+            "ISE128_实验8_Python模块Numpy_Pandas和Matplotlib的操作.docx": {
+              "_type": "file",
+              "name": "ISE128_实验8_Python模块Numpy_Pandas和Matplotlib的操作.docx",
+              "size": 58395,
+              "sizeHuman": "57.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验8_Python模块Numpy_Pandas和Matplotlib的操作.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验8_Python模块Numpy_Pandas和Matplotlib的操作.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验8_Python模块Numpy_Pandas和Matplotlib的操作.docx"
+            },
+            "ISE128_实验9_Python在人工智能领域的应用.docx": {
+              "_type": "file",
+              "name": "ISE128_实验9_Python在人工智能领域的应用.docx",
+              "size": 38107,
+              "sizeHuman": "37.2 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验9_Python在人工智能领域的应用.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验9_Python在人工智能领域的应用.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/人工智能编程语言/2021年秋季学期/实验与大作业-方桂安/ISE128_实验9_Python在人工智能领域的应用.docx"
+            }
+          }
+        }
+      }
+    },
     "2023年秋季学期": {
       "_type": "folder",
       "_children": {
@@ -5223,8 +5408,8 @@
                 "dijkstra.py": {
                   "_type": "file",
                   "name": "dijkstra.py",
-                  "size": 12769,
-                  "sizeHuman": "12.5 KB",
+                  "size": 12472,
+                  "sizeHuman": "12.2 KB",
                   "mtime": "2026/04/15",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2024秋季学期/交通-实验与大作业-肖伟文/大作业/dijkstra.py",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2024秋季学期/交通-实验与大作业-肖伟文/大作业/dijkstra.py",
@@ -5263,7 +5448,7 @@
                 "floyd.py": {
                   "_type": "file",
                   "name": "floyd.py",
-                  "size": 2402,
+                  "size": 2347,
                   "sizeHuman": "2.3 KB",
                   "mtime": "2026/04/15",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2024秋季学期/交通-实验与大作业-肖伟文/大作业/floyd.py",
@@ -5303,8 +5488,8 @@
                 "tempCodeRunnerFile.py": {
                   "_type": "file",
                   "name": "tempCodeRunnerFile.py",
-                  "size": 5465,
-                  "sizeHuman": "5.3 KB",
+                  "size": 5343,
+                  "sizeHuman": "5.2 KB",
                   "mtime": "2026/04/15",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2024秋季学期/交通-实验与大作业-肖伟文/大作业/tempCodeRunnerFile.py",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/人工智能编程语言/2024秋季学期/交通-实验与大作业-肖伟文/大作业/tempCodeRunnerFile.py",
@@ -6482,6 +6667,326 @@
     }
   },
   "大一公共课程/大一下/概统": {
+    "2021年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "概率论": {
+              "_type": "folder",
+              "_children": {
+                "《概率统计》试题及答案.doc": {
+                  "_type": "file",
+                  "name": "《概率统计》试题及答案.doc",
+                  "size": 296960,
+                  "sizeHuman": "290.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/《概率统计》试题及答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/《概率统计》试题及答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/《概率统计》试题及答案.doc"
+                },
+                "概率统计习题.docx": {
+                  "_type": "file",
+                  "name": "概率统计习题.docx",
+                  "size": 467519,
+                  "sizeHuman": "456.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计习题.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计习题.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计习题.docx"
+                },
+                "概率统计总复习资料.doc": {
+                  "_type": "file",
+                  "name": "概率统计总复习资料.doc",
+                  "size": 325120,
+                  "sizeHuman": "317.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计总复习资料.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计总复习资料.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计总复习资料.doc"
+                },
+                "概率统计笔记.pdf": {
+                  "_type": "file",
+                  "name": "概率统计笔记.pdf",
+                  "size": 1044928,
+                  "sizeHuman": "1020.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计笔记.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计笔记.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率统计笔记.pdf"
+                },
+                "概率论与数理统计复习资料要点总结.doc": {
+                  "_type": "file",
+                  "name": "概率论与数理统计复习资料要点总结.doc",
+                  "size": 3020623,
+                  "sizeHuman": "2.9 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计复习资料要点总结.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计复习资料要点总结.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计复习资料要点总结.doc"
+                },
+                "概率论与数理统计期末考试试卷答案-DOC.doc": {
+                  "_type": "file",
+                  "name": "概率论与数理统计期末考试试卷答案-DOC.doc",
+                  "size": 2713088,
+                  "sizeHuman": "2.6 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计期末考试试卷答案-DOC.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计期末考试试卷答案-DOC.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计期末考试试卷答案-DOC.doc"
+                },
+                "概率论与数理统计第四版-课后习题答案_盛骤__浙江大学.pdf": {
+                  "_type": "file",
+                  "name": "概率论与数理统计第四版-课后习题答案_盛骤__浙江大学.pdf",
+                  "size": 689171,
+                  "sizeHuman": "673.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计第四版-课后习题答案_盛骤__浙江大学.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计第四版-课后习题答案_盛骤__浙江大学.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计第四版-课后习题答案_盛骤__浙江大学.pdf"
+                },
+                "概率论与数理统计答案.pdf": {
+                  "_type": "file",
+                  "name": "概率论与数理统计答案.pdf",
+                  "size": 2399532,
+                  "sizeHuman": "2.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计答案.pdf"
+                },
+                "概率论与数理统计考试试卷与答案.doc": {
+                  "_type": "file",
+                  "name": "概率论与数理统计考试试卷与答案.doc",
+                  "size": 1056366,
+                  "sizeHuman": "1.0 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计考试试卷与答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计考试试卷与答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计考试试卷与答案.doc"
+                },
+                "概率论与数理统计试卷及答案.doc": {
+                  "_type": "file",
+                  "name": "概率论与数理统计试卷及答案.doc",
+                  "size": 1041920,
+                  "sizeHuman": "1017.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷及答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷及答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷及答案.doc"
+                },
+                "概率论与数理统计试卷合集附答案.doc": {
+                  "_type": "file",
+                  "name": "概率论与数理统计试卷合集附答案.doc",
+                  "size": 796986,
+                  "sizeHuman": "778.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷合集附答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷合集附答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷合集附答案.doc"
+                },
+                "概率论与数理统计试卷附答案.doc": {
+                  "_type": "file",
+                  "name": "概率论与数理统计试卷附答案.doc",
+                  "size": 539136,
+                  "sizeHuman": "526.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷附答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷附答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论与数理统计试卷附答案.doc"
+                },
+                "概率论习题试题集.doc": {
+                  "_type": "file",
+                  "name": "概率论习题试题集.doc",
+                  "size": 946688,
+                  "sizeHuman": "924.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论习题试题集.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论习题试题集.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论习题试题集.doc"
+                },
+                "概率论公式大全.ppt": {
+                  "_type": "file",
+                  "name": "概率论公式大全.ppt",
+                  "size": 154624,
+                  "sizeHuman": "151.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论公式大全.ppt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论公式大全.ppt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论公式大全.ppt"
+                },
+                "概率论公式总结.docx": {
+                  "_type": "file",
+                  "name": "概率论公式总结.docx",
+                  "size": 283344,
+                  "sizeHuman": "276.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论公式总结.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论公式总结.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论公式总结.docx"
+                },
+                "概率论复习题及答案.docx": {
+                  "_type": "file",
+                  "name": "概率论复习题及答案.docx",
+                  "size": 771332,
+                  "sizeHuman": "753.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论复习题及答案.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论复习题及答案.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论复习题及答案.docx"
+                },
+                "概率论总复习-知识总结.ppt": {
+                  "_type": "file",
+                  "name": "概率论总复习-知识总结.ppt",
+                  "size": 4707328,
+                  "sizeHuman": "4.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论总复习-知识总结.ppt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论总复习-知识总结.ppt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论总复习-知识总结.ppt"
+                },
+                "概率论期末复习知识点.docx": {
+                  "_type": "file",
+                  "name": "概率论期末复习知识点.docx",
+                  "size": 172529,
+                  "sizeHuman": "168.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论期末复习知识点.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论期末复习知识点.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论期末复习知识点.docx"
+                },
+                "概率论知识点总结.ppt": {
+                  "_type": "file",
+                  "name": "概率论知识点总结.ppt",
+                  "size": 806912,
+                  "sizeHuman": "788.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论知识点总结.ppt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论知识点总结.ppt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论知识点总结.ppt"
+                },
+                "概率论试卷.doc": {
+                  "_type": "file",
+                  "name": "概率论试卷.doc",
+                  "size": 25108,
+                  "sizeHuman": "24.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试卷.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试卷.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试卷.doc"
+                },
+                "概率论试题及答案 (2).doc": {
+                  "_type": "file",
+                  "name": "概率论试题及答案 (2).doc",
+                  "size": 1133568,
+                  "sizeHuman": "1.1 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试题及答案 (2).doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试题及答案 (2).doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试题及答案 (2).doc"
+                },
+                "概率论试题及答案.doc": {
+                  "_type": "file",
+                  "name": "概率论试题及答案.doc",
+                  "size": 1182208,
+                  "sizeHuman": "1.1 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试题及答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试题及答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率论/概率论试题及答案.doc"
+                }
+              }
+            },
+            "统计学": {
+              "_type": "folder",
+              "_children": {
+                "大学统计学考试重点(考试必备).pdf": {
+                  "_type": "file",
+                  "name": "大学统计学考试重点(考试必备).pdf",
+                  "size": 165992,
+                  "sizeHuman": "162.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/大学统计学考试重点(考试必备).pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/大学统计学考试重点(考试必备).pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/大学统计学考试重点(考试必备).pdf"
+                },
+                "统计学习题集及答案.pdf": {
+                  "_type": "file",
+                  "name": "统计学习题集及答案.pdf",
+                  "size": 2793851,
+                  "sizeHuman": "2.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学习题集及答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学习题集及答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学习题集及答案.pdf"
+                },
+                "统计学公式(新编统计学基础与应用).pdf": {
+                  "_type": "file",
+                  "name": "统计学公式(新编统计学基础与应用).pdf",
+                  "size": 294685,
+                  "sizeHuman": "287.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学公式(新编统计学基础与应用).pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学公式(新编统计学基础与应用).pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学公式(新编统计学基础与应用).pdf"
+                },
+                "统计学期末考试试题(含答案).pdf": {
+                  "_type": "file",
+                  "name": "统计学期末考试试题(含答案).pdf",
+                  "size": 725812,
+                  "sizeHuman": "708.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学期末考试试题(含答案).pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学期末考试试题(含答案).pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学期末考试试题(含答案).pdf"
+                },
+                "统计学知识点总结.pdf": {
+                  "_type": "file",
+                  "name": "统计学知识点总结.pdf",
+                  "size": 409157,
+                  "sizeHuman": "399.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学知识点总结.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学知识点总结.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学知识点总结.pdf"
+                },
+                "统计学试题库(含答案).pdf": {
+                  "_type": "file",
+                  "name": "统计学试题库(含答案).pdf",
+                  "size": 1344155,
+                  "sizeHuman": "1.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学试题库(含答案).pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学试题库(含答案).pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/统计学/统计学试题库(含答案).pdf"
+                }
+              }
+            },
+            "数理统计习题与方法总结.pdf": {
+              "_type": "file",
+              "name": "数理统计习题与方法总结.pdf",
+              "size": 5257267,
+              "sizeHuman": "5.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/数理统计习题与方法总结.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/数理统计习题与方法总结.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/数理统计习题与方法总结.pdf"
+            },
+            "概率统计期末考试卷-2020.pdf": {
+              "_type": "file",
+              "name": "概率统计期末考试卷-2020.pdf",
+              "size": 1040359,
+              "sizeHuman": "1016.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率统计期末考试卷-2020.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率统计期末考试卷-2020.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/概统/2021年春季学期/真题与复习资料-方桂安/概率统计期末考试卷-2020.pdf"
+            }
+          }
+        }
+      }
+    },
     "1_7_22概统理工类_all_pages_202506191814_09891.pdf": {
       "_type": "file",
       "name": "1_7_22概统理工类_all_pages_202506191814_09891.pdf",
@@ -6833,6 +7338,81 @@
     }
   },
   "大一公共课程/大一下/电路": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "电路基础": {
+              "_type": "folder",
+              "_children": {
+                "电路基础第一章.pdf": {
+                  "_type": "file",
+                  "name": "电路基础第一章.pdf",
+                  "size": 653977,
+                  "sizeHuman": "638.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第一章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第一章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第一章.pdf"
+                },
+                "电路基础第三章.pdf": {
+                  "_type": "file",
+                  "name": "电路基础第三章.pdf",
+                  "size": 1016829,
+                  "sizeHuman": "993.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第三章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第三章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第三章.pdf"
+                },
+                "电路基础第二章.pdf": {
+                  "_type": "file",
+                  "name": "电路基础第二章.pdf",
+                  "size": 827985,
+                  "sizeHuman": "808.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第二章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第二章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第二章.pdf"
+                },
+                "电路基础第五章.pdf": {
+                  "_type": "file",
+                  "name": "电路基础第五章.pdf",
+                  "size": 830538,
+                  "sizeHuman": "811.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第五章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第五章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第五章.pdf"
+                },
+                "电路基础第四章.pdf": {
+                  "_type": "file",
+                  "name": "电路基础第四章.pdf",
+                  "size": 1019994,
+                  "sizeHuman": "996.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第四章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第四章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/电路基础/电路基础第四章.pdf"
+                }
+              }
+            },
+            "《电路与模拟电子技术》期末复习试题一含答案.pdf": {
+              "_type": "file",
+              "name": "《电路与模拟电子技术》期末复习试题一含答案.pdf",
+              "size": 2132513,
+              "sizeHuman": "2.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/《电路与模拟电子技术》期末复习试题一含答案.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/《电路与模拟电子技术》期末复习试题一含答案.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/大一公共课程/大一下/电路/2021年秋季学期/真题与复习-方桂安/《电路与模拟电子技术》期末复习试题一含答案.pdf"
+            }
+          }
+        }
+      }
+    },
     "08级数字电路与逻辑设计（A卷）.pdf": {
       "_type": "file",
       "name": "08级数字电路与逻辑设计（A卷）.pdf",
