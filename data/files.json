@@ -21822,6 +21822,193 @@
       }
     }
   },
+  "智能科学与技术/大二下/人工智能综合实验": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "cifar10": {
+              "_type": "folder",
+              "_children": {
+                "extension.ipynb": {
+                  "_type": "file",
+                  "name": "extension.ipynb",
+                  "size": 99834,
+                  "sizeHuman": "97.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/extension.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/extension.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/extension.ipynb"
+                },
+                "main.py": {
+                  "_type": "file",
+                  "name": "main.py",
+                  "size": 3161,
+                  "sizeHuman": "3.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/main.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/main.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/main.py"
+                },
+                "pre_data.py": {
+                  "_type": "file",
+                  "name": "pre_data.py",
+                  "size": 973,
+                  "sizeHuman": "973 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/pre_data.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/pre_data.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/pre_data.py"
+                },
+                "requirements.txt": {
+                  "_type": "file",
+                  "name": "requirements.txt",
+                  "size": 2727,
+                  "sizeHuman": "2.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/requirements.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/requirements.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/requirements.txt"
+                },
+                "torch.ipynb": {
+                  "_type": "file",
+                  "name": "torch.ipynb",
+                  "size": 239126,
+                  "sizeHuman": "233.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/torch.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/torch.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/torch.ipynb"
+                },
+                "人工智能_期中作业.pdf": {
+                  "_type": "file",
+                  "name": "人工智能_期中作业.pdf",
+                  "size": 3719842,
+                  "sizeHuman": "3.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/人工智能_期中作业.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/人工智能_期中作业.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/人工智能_期中作业.pdf"
+                },
+                "深度学习_期中作业.pdf": {
+                  "_type": "file",
+                  "name": "深度学习_期中作业.pdf",
+                  "size": 2616093,
+                  "sizeHuman": "2.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/深度学习_期中作业.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/深度学习_期中作业.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/cifar10/深度学习_期中作业.pdf"
+                }
+              }
+            },
+            "horse_generation": {
+              "_type": "folder",
+              "_children": {
+                "VAE": {
+                  "_type": "folder",
+                  "_children": {
+                    "data.py": {
+                      "_type": "file",
+                      "name": "data.py",
+                      "size": 644,
+                      "sizeHuman": "644 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/data.py",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/data.py",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/data.py"
+                    },
+                    "main.py": {
+                      "_type": "file",
+                      "name": "main.py",
+                      "size": 2356,
+                      "sizeHuman": "2.3 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/main.py",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/main.py",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/main.py"
+                    },
+                    "model.py": {
+                      "_type": "file",
+                      "name": "model.py",
+                      "size": 4268,
+                      "sizeHuman": "4.2 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/model.py",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/model.py",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/model.py"
+                    },
+                    "train.py": {
+                      "_type": "file",
+                      "name": "train.py",
+                      "size": 2749,
+                      "sizeHuman": "2.7 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/train.py",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/train.py",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/train.py"
+                    },
+                    "utils.py": {
+                      "_type": "file",
+                      "name": "utils.py",
+                      "size": 1435,
+                      "sizeHuman": "1.4 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/utils.py",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/utils.py",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/VAE/utils.py"
+                    }
+                  }
+                },
+                "GAN.ipynb": {
+                  "_type": "file",
+                  "name": "GAN.ipynb",
+                  "size": 3447141,
+                  "sizeHuman": "3.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/GAN.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/GAN.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/GAN.ipynb"
+                },
+                "Intro.pptx": {
+                  "_type": "file",
+                  "name": "Intro.pptx",
+                  "size": 31738739,
+                  "sizeHuman": "30.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/Intro.pptx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/Intro.pptx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/Intro.pptx"
+                },
+                "requirements.txt": {
+                  "_type": "file",
+                  "name": "requirements.txt",
+                  "size": 2985,
+                  "sizeHuman": "2.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/requirements.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/requirements.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/requirements.txt"
+                },
+                "setup.sh": {
+                  "_type": "file",
+                  "name": "setup.sh",
+                  "size": 232,
+                  "sizeHuman": "232 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/setup.sh",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/setup.sh",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/人工智能综合实验/2022年春季学期/实验-方桂安/horse_generation/setup.sh"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大二下/传感器原理与应用": {
     "2024年春季学期": {
       "_type": "folder",
@@ -21905,6 +22092,111 @@
     }
   },
   "智能科学与技术/大二下/图像处理": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "数字图像处理期末试卷": {
+              "_type": "folder",
+              "_children": {
+                "09《数字图像处理》期末考试试题A(参考答案)_v9.pdf": {
+                  "_type": "file",
+                  "name": "09《数字图像处理》期末考试试题A(参考答案)_v9.pdf",
+                  "size": 413729,
+                  "sizeHuman": "404.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/09《数字图像处理》期末考试试题A(参考答案)_v9.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/09《数字图像处理》期末考试试题A(参考答案)_v9.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/09《数字图像处理》期末考试试题A(参考答案)_v9.pdf"
+                },
+                "09《数字图像处理》期末考试试题A_v9.pdf": {
+                  "_type": "file",
+                  "name": "09《数字图像处理》期末考试试题A_v9.pdf",
+                  "size": 314014,
+                  "sizeHuman": "306.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/09《数字图像处理》期末考试试题A_v9.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/09《数字图像处理》期末考试试题A_v9.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/09《数字图像处理》期末考试试题A_v9.pdf"
+                },
+                "Midterm_Test_2012_sol.pdf": {
+                  "_type": "file",
+                  "name": "Midterm_Test_2012_sol.pdf",
+                  "size": 346226,
+                  "sizeHuman": "338.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/Midterm_Test_2012_sol.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/Midterm_Test_2012_sol.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/Midterm_Test_2012_sol.pdf"
+                },
+                "数字图像处理 10-01期末答案A.pdf": {
+                  "_type": "file",
+                  "name": "数字图像处理 10-01期末答案A.pdf",
+                  "size": 340317,
+                  "sizeHuman": "332.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理 10-01期末答案A.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理 10-01期末答案A.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理 10-01期末答案A.pdf"
+                },
+                "数字图像处理 10-01期末试题A.pdf": {
+                  "_type": "file",
+                  "name": "数字图像处理 10-01期末试题A.pdf",
+                  "size": 264607,
+                  "sizeHuman": "258.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理 10-01期末试题A.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理 10-01期末试题A.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理 10-01期末试题A.pdf"
+                },
+                "数字图像处理期末考试A卷试题.pdf": {
+                  "_type": "file",
+                  "name": "数字图像处理期末考试A卷试题.pdf",
+                  "size": 213904,
+                  "sizeHuman": "208.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理期末考试A卷试题.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理期末考试A卷试题.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理期末考试A卷试题.pdf"
+                },
+                "数字图像处理期末考试A卷试题答案.pdf": {
+                  "_type": "file",
+                  "name": "数字图像处理期末考试A卷试题答案.pdf",
+                  "size": 252611,
+                  "sizeHuman": "246.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理期末考试A卷试题答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理期末考试A卷试题答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/数字图像处理期末试卷/数字图像处理期末考试A卷试题答案.pdf"
+                }
+              }
+            },
+            "哈夫曼编码作业.pdf": {
+              "_type": "file",
+              "name": "哈夫曼编码作业.pdf",
+              "size": 75903,
+              "sizeHuman": "74.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/哈夫曼编码作业.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/哈夫曼编码作业.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/哈夫曼编码作业.pdf"
+            },
+            "期中考核要求.pdf": {
+              "_type": "file",
+              "name": "期中考核要求.pdf",
+              "size": 458400,
+              "sizeHuman": "447.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/期中考核要求.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/期中考核要求.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/图像处理/2022年春季学期/真题与复习-方桂安/期中考核要求.pdf"
+            }
+          }
+        }
+      }
+    },
     "2024年秋季学期": {
       "_type": "folder",
       "_children": {
@@ -22128,7 +22420,794 @@
       }
     }
   },
+  "智能科学与技术/大二下/数字逻辑设计": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "数字电子技术基础习题解答_第6版.pdf": {
+              "_type": "file",
+              "name": "数字电子技术基础习题解答_第6版.pdf",
+              "size": 101120380,
+              "sizeHuman": "96.4 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数字逻辑设计/2022年春季学期/真题与复习-方桂安/数字电子技术基础习题解答_第6版.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数字逻辑设计/2022年春季学期/真题与复习-方桂安/数字电子技术基础习题解答_第6版.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数字逻辑设计/2022年春季学期/真题与复习-方桂安/数字电子技术基础习题解答_第6版.pdf"
+            },
+            "电子技术基础(数字部分)学·练·考.pdf": {
+              "_type": "file",
+              "name": "电子技术基础(数字部分)学·练·考.pdf",
+              "size": 21154725,
+              "sizeHuman": "20.2 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数字逻辑设计/2022年春季学期/真题与复习-方桂安/电子技术基础(数字部分)学·练·考.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数字逻辑设计/2022年春季学期/真题与复习-方桂安/电子技术基础(数字部分)学·练·考.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数字逻辑设计/2022年春季学期/真题与复习-方桂安/电子技术基础(数字部分)学·练·考.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大二下/数据库原理": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "教材答案第6版": {
+              "_type": "folder",
+              "_children": {
+                "10s.pdf": {
+                  "_type": "file",
+                  "name": "10s.pdf",
+                  "size": 502003,
+                  "sizeHuman": "490.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/10s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/10s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/10s.pdf"
+                },
+                "11s.pdf": {
+                  "_type": "file",
+                  "name": "11s.pdf",
+                  "size": 556075,
+                  "sizeHuman": "543.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/11s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/11s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/11s.pdf"
+                },
+                "12s.pdf": {
+                  "_type": "file",
+                  "name": "12s.pdf",
+                  "size": 515936,
+                  "sizeHuman": "503.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/12s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/12s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/12s.pdf"
+                },
+                "13s.pdf": {
+                  "_type": "file",
+                  "name": "13s.pdf",
+                  "size": 540533,
+                  "sizeHuman": "527.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/13s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/13s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/13s.pdf"
+                },
+                "14s.pdf": {
+                  "_type": "file",
+                  "name": "14s.pdf",
+                  "size": 489725,
+                  "sizeHuman": "478.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/14s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/14s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/14s.pdf"
+                },
+                "15s.pdf": {
+                  "_type": "file",
+                  "name": "15s.pdf",
+                  "size": 551118,
+                  "sizeHuman": "538.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/15s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/15s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/15s.pdf"
+                },
+                "16s.pdf": {
+                  "_type": "file",
+                  "name": "16s.pdf",
+                  "size": 517737,
+                  "sizeHuman": "505.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/16s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/16s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/16s.pdf"
+                },
+                "17s.pdf": {
+                  "_type": "file",
+                  "name": "17s.pdf",
+                  "size": 483196,
+                  "sizeHuman": "471.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/17s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/17s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/17s.pdf"
+                },
+                "18s.pdf": {
+                  "_type": "file",
+                  "name": "18s.pdf",
+                  "size": 501625,
+                  "sizeHuman": "489.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/18s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/18s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/18s.pdf"
+                },
+                "19s.pdf": {
+                  "_type": "file",
+                  "name": "19s.pdf",
+                  "size": 528959,
+                  "sizeHuman": "516.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/19s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/19s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/19s.pdf"
+                },
+                "1s.pdf": {
+                  "_type": "file",
+                  "name": "1s.pdf",
+                  "size": 484282,
+                  "sizeHuman": "472.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/1s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/1s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/1s.pdf"
+                },
+                "20s.pdf": {
+                  "_type": "file",
+                  "name": "20s.pdf",
+                  "size": 489927,
+                  "sizeHuman": "478.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/20s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/20s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/20s.pdf"
+                },
+                "21s.pdf": {
+                  "_type": "file",
+                  "name": "21s.pdf",
+                  "size": 492122,
+                  "sizeHuman": "480.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/21s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/21s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/21s.pdf"
+                },
+                "22s.pdf": {
+                  "_type": "file",
+                  "name": "22s.pdf",
+                  "size": 502090,
+                  "sizeHuman": "490.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/22s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/22s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/22s.pdf"
+                },
+                "23s.pdf": {
+                  "_type": "file",
+                  "name": "23s.pdf",
+                  "size": 505534,
+                  "sizeHuman": "493.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/23s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/23s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/23s.pdf"
+                },
+                "24s.pdf": {
+                  "_type": "file",
+                  "name": "24s.pdf",
+                  "size": 493159,
+                  "sizeHuman": "481.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/24s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/24s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/24s.pdf"
+                },
+                "25s.pdf": {
+                  "_type": "file",
+                  "name": "25s.pdf",
+                  "size": 503873,
+                  "sizeHuman": "492.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/25s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/25s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/25s.pdf"
+                },
+                "26s.pdf": {
+                  "_type": "file",
+                  "name": "26s.pdf",
+                  "size": 524689,
+                  "sizeHuman": "512.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/26s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/26s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/26s.pdf"
+                },
+                "2s.pdf": {
+                  "_type": "file",
+                  "name": "2s.pdf",
+                  "size": 499534,
+                  "sizeHuman": "487.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/2s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/2s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/2s.pdf"
+                },
+                "3s.pdf": {
+                  "_type": "file",
+                  "name": "3s.pdf",
+                  "size": 542699,
+                  "sizeHuman": "530.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/3s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/3s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/3s.pdf"
+                },
+                "4s.pdf": {
+                  "_type": "file",
+                  "name": "4s.pdf",
+                  "size": 525382,
+                  "sizeHuman": "513.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/4s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/4s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/4s.pdf"
+                },
+                "5s.pdf": {
+                  "_type": "file",
+                  "name": "5s.pdf",
+                  "size": 501369,
+                  "sizeHuman": "489.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/5s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/5s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/5s.pdf"
+                },
+                "6s.pdf": {
+                  "_type": "file",
+                  "name": "6s.pdf",
+                  "size": 551078,
+                  "sizeHuman": "538.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/6s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/6s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/6s.pdf"
+                },
+                "7s.pdf": {
+                  "_type": "file",
+                  "name": "7s.pdf",
+                  "size": 516439,
+                  "sizeHuman": "504.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/7s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/7s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/7s.pdf"
+                },
+                "8s.pdf": {
+                  "_type": "file",
+                  "name": "8s.pdf",
+                  "size": 538584,
+                  "sizeHuman": "526.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/8s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/8s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/8s.pdf"
+                },
+                "9s.pdf": {
+                  "_type": "file",
+                  "name": "9s.pdf",
+                  "size": 502641,
+                  "sizeHuman": "490.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/9s.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/9s.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第6版/9s.pdf"
+                }
+              }
+            },
+            "教材答案第7版": {
+              "_type": "folder",
+              "_children": {
+                "1.pdf": {
+                  "_type": "file",
+                  "name": "1.pdf",
+                  "size": 1392487,
+                  "sizeHuman": "1.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/1.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/1.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/1.pdf"
+                },
+                "10.pdf": {
+                  "_type": "file",
+                  "name": "10.pdf",
+                  "size": 1427978,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/10.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/10.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/10.pdf"
+                },
+                "11.pdf": {
+                  "_type": "file",
+                  "name": "11.pdf",
+                  "size": 1412603,
+                  "sizeHuman": "1.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/11.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/11.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/11.pdf"
+                },
+                "12.pdf": {
+                  "_type": "file",
+                  "name": "12.pdf",
+                  "size": 1420334,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/12.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/12.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/12.pdf"
+                },
+                "13.pdf": {
+                  "_type": "file",
+                  "name": "13.pdf",
+                  "size": 1455483,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/13.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/13.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/13.pdf"
+                },
+                "14.pdf": {
+                  "_type": "file",
+                  "name": "14.pdf",
+                  "size": 1575577,
+                  "sizeHuman": "1.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/14.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/14.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/14.pdf"
+                },
+                "15.pdf": {
+                  "_type": "file",
+                  "name": "15.pdf",
+                  "size": 1498750,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/15.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/15.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/15.pdf"
+                },
+                "16.pdf": {
+                  "_type": "file",
+                  "name": "16.pdf",
+                  "size": 1502833,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/16.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/16.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/16.pdf"
+                },
+                "17.pdf": {
+                  "_type": "file",
+                  "name": "17.pdf",
+                  "size": 1468729,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/17.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/17.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/17.pdf"
+                },
+                "18.pdf": {
+                  "_type": "file",
+                  "name": "18.pdf",
+                  "size": 1543213,
+                  "sizeHuman": "1.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/18.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/18.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/18.pdf"
+                },
+                "19.pdf": {
+                  "_type": "file",
+                  "name": "19.pdf",
+                  "size": 1444982,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/19.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/19.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/19.pdf"
+                },
+                "2.pdf": {
+                  "_type": "file",
+                  "name": "2.pdf",
+                  "size": 1454781,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/2.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/2.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/2.pdf"
+                },
+                "20.pdf": {
+                  "_type": "file",
+                  "name": "20.pdf",
+                  "size": 1415034,
+                  "sizeHuman": "1.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/20.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/20.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/20.pdf"
+                },
+                "21.pdf": {
+                  "_type": "file",
+                  "name": "21.pdf",
+                  "size": 1426274,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/21.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/21.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/21.pdf"
+                },
+                "22.pdf": {
+                  "_type": "file",
+                  "name": "22.pdf",
+                  "size": 1453010,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/22.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/22.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/22.pdf"
+                },
+                "23.pdf": {
+                  "_type": "file",
+                  "name": "23.pdf",
+                  "size": 1478016,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/23.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/23.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/23.pdf"
+                },
+                "3.pdf": {
+                  "_type": "file",
+                  "name": "3.pdf",
+                  "size": 1478522,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/3.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/3.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/3.pdf"
+                },
+                "4.pdf": {
+                  "_type": "file",
+                  "name": "4.pdf",
+                  "size": 1462218,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/4.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/4.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/4.pdf"
+                },
+                "5.pdf": {
+                  "_type": "file",
+                  "name": "5.pdf",
+                  "size": 1480284,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/5.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/5.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/5.pdf"
+                },
+                "6.pdf": {
+                  "_type": "file",
+                  "name": "6.pdf",
+                  "size": 1561376,
+                  "sizeHuman": "1.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/6.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/6.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/6.pdf"
+                },
+                "7.pdf": {
+                  "_type": "file",
+                  "name": "7.pdf",
+                  "size": 1495565,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/7.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/7.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/7.pdf"
+                },
+                "8.pdf": {
+                  "_type": "file",
+                  "name": "8.pdf",
+                  "size": 1489823,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/8.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/8.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/8.pdf"
+                },
+                "9.pdf": {
+                  "_type": "file",
+                  "name": "9.pdf",
+                  "size": 1417671,
+                  "sizeHuman": "1.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/9.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/9.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/教材答案第7版/9.pdf"
+                }
+              }
+            },
+            "数据库系统原理": {
+              "_type": "folder",
+              "_children": {
+                "08级数据库系统原理答案A.pdf": {
+                  "_type": "file",
+                  "name": "08级数据库系统原理答案A.pdf",
+                  "size": 3909603,
+                  "sizeHuman": "3.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/08级数据库系统原理答案A.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/08级数据库系统原理答案A.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/08级数据库系统原理答案A.pdf"
+                },
+                "08级数据库系统原理试题A.pdf": {
+                  "_type": "file",
+                  "name": "08级数据库系统原理试题A.pdf",
+                  "size": 287555,
+                  "sizeHuman": "280.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/08级数据库系统原理试题A.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/08级数据库系统原理试题A.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/08级数据库系统原理试题A.pdf"
+                },
+                "09级数据库系统原理 期末答案B.pdf": {
+                  "_type": "file",
+                  "name": "09级数据库系统原理 期末答案B.pdf",
+                  "size": 324510,
+                  "sizeHuman": "316.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/09级数据库系统原理 期末答案B.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/09级数据库系统原理 期末答案B.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/09级数据库系统原理 期末答案B.pdf"
+                },
+                "10数据库系统原理2012-A-答案.doc": {
+                  "_type": "file",
+                  "name": "10数据库系统原理2012-A-答案.doc",
+                  "size": 78336,
+                  "sizeHuman": "76.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-A-答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-A-答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-A-答案.doc"
+                },
+                "10数据库系统原理2012-A（已用）.doc": {
+                  "_type": "file",
+                  "name": "10数据库系统原理2012-A（已用）.doc",
+                  "size": 67072,
+                  "sizeHuman": "65.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-A（已用）.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-A（已用）.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-A（已用）.doc"
+                },
+                "10数据库系统原理2012-B-答案.doc": {
+                  "_type": "file",
+                  "name": "10数据库系统原理2012-B-答案.doc",
+                  "size": 152576,
+                  "sizeHuman": "149.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-B-答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-B-答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-B-答案.doc"
+                },
+                "10数据库系统原理2012-B.doc": {
+                  "_type": "file",
+                  "name": "10数据库系统原理2012-B.doc",
+                  "size": 71680,
+                  "sizeHuman": "70.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-B.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-B.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10数据库系统原理2012-B.doc"
+                },
+                "10级-数据库期末考卷2012-A-答案.pdf": {
+                  "_type": "file",
+                  "name": "10级-数据库期末考卷2012-A-答案.pdf",
+                  "size": 1223421,
+                  "sizeHuman": "1.2 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10级-数据库期末考卷2012-A-答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10级-数据库期末考卷2012-A-答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/10级-数据库期末考卷2012-A-答案.pdf"
+                },
+                "11级-数据库期中试题与答案.pdf": {
+                  "_type": "file",
+                  "name": "11级-数据库期中试题与答案.pdf",
+                  "size": 581454,
+                  "sizeHuman": "567.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/11级-数据库期中试题与答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/11级-数据库期中试题与答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/11级-数据库期中试题与答案.pdf"
+                },
+                "2007：数据库系统原理（B卷）.pdf": {
+                  "_type": "file",
+                  "name": "2007：数据库系统原理（B卷）.pdf",
+                  "size": 91653,
+                  "sizeHuman": "89.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2007：数据库系统原理（B卷）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2007：数据库系统原理（B卷）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2007：数据库系统原理（B卷）.pdf"
+                },
+                "2007：数据库系统原理（参考答案）.pdf": {
+                  "_type": "file",
+                  "name": "2007：数据库系统原理（参考答案）.pdf",
+                  "size": 196494,
+                  "sizeHuman": "191.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2007：数据库系统原理（参考答案）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2007：数据库系统原理（参考答案）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2007：数据库系统原理（参考答案）.pdf"
+                },
+                "2009：数据库系统原理（B卷）.pdf": {
+                  "_type": "file",
+                  "name": "2009：数据库系统原理（B卷）.pdf",
+                  "size": 291873,
+                  "sizeHuman": "285.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2009：数据库系统原理（B卷）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2009：数据库系统原理（B卷）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2009：数据库系统原理（B卷）.pdf"
+                },
+                "2009：数据库系统原理（参考答案B）.pdf": {
+                  "_type": "file",
+                  "name": "2009：数据库系统原理（参考答案B）.pdf",
+                  "size": 324510,
+                  "sizeHuman": "316.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2009：数据库系统原理（参考答案B）.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2009：数据库系统原理（参考答案B）.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2009：数据库系统原理（参考答案B）.pdf"
+                },
+                "2015数据库期末试卷.doc": {
+                  "_type": "file",
+                  "name": "2015数据库期末试卷.doc",
+                  "size": 413184,
+                  "sizeHuman": "403.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2015数据库期末试卷.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2015数据库期末试卷.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2015数据库期末试卷.doc"
+                },
+                "2016.12 试卷数据库系统_复习.doc": {
+                  "_type": "file",
+                  "name": "2016.12 试卷数据库系统_复习.doc",
+                  "size": 329728,
+                  "sizeHuman": "322.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016.12 试卷数据库系统_复习.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016.12 试卷数据库系统_复习.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016.12 试卷数据库系统_复习.doc"
+                },
+                "2016.12 试卷数据库系统_复习.pdf": {
+                  "_type": "file",
+                  "name": "2016.12 试卷数据库系统_复习.pdf",
+                  "size": 795247,
+                  "sizeHuman": "776.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016.12 试卷数据库系统_复习.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016.12 试卷数据库系统_复习.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016.12 试卷数据库系统_复习.pdf"
+                },
+                "2016数据库期末试卷.doc": {
+                  "_type": "file",
+                  "name": "2016数据库期末试卷.doc",
+                  "size": 390144,
+                  "sizeHuman": "381.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016数据库期末试卷.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016数据库期末试卷.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/2016数据库期末试卷.doc"
+                },
+                "数据库 (2).txt": {
+                  "_type": "file",
+                  "name": "数据库 (2).txt",
+                  "size": 9365,
+                  "sizeHuman": "9.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库 (2).txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库 (2).txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库 (2).txt"
+                },
+                "数据库期中试题与答案.pdf": {
+                  "_type": "file",
+                  "name": "数据库期中试题与答案.pdf",
+                  "size": 581454,
+                  "sizeHuman": "567.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期中试题与答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期中试题与答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期中试题与答案.pdf"
+                },
+                "数据库期末考卷2013-A-答案.docx": {
+                  "_type": "file",
+                  "name": "数据库期末考卷2013-A-答案.docx",
+                  "size": 76485,
+                  "sizeHuman": "74.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期末考卷2013-A-答案.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期末考卷2013-A-答案.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期末考卷2013-A-答案.docx"
+                },
+                "数据库期末考卷2013-B-答案.docx": {
+                  "_type": "file",
+                  "name": "数据库期末考卷2013-B-答案.docx",
+                  "size": 93613,
+                  "sizeHuman": "91.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期末考卷2013-B-答案.docx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期末考卷2013-B-答案.docx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库期末考卷2013-B-答案.docx"
+                },
+                "数据库系统原理 2008-01答案A.pdf": {
+                  "_type": "file",
+                  "name": "数据库系统原理 2008-01答案A.pdf",
+                  "size": 3909603,
+                  "sizeHuman": "3.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库系统原理 2008-01答案A.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库系统原理 2008-01答案A.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库系统原理 2008-01答案A.pdf"
+                },
+                "数据库系统原理2009 期末卷子B+答案.pdf": {
+                  "_type": "file",
+                  "name": "数据库系统原理2009 期末卷子B+答案.pdf",
+                  "size": 324510,
+                  "sizeHuman": "316.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库系统原理2009 期末卷子B+答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库系统原理2009 期末卷子B+答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库系统原理/数据库系统原理2009 期末卷子B+答案.pdf"
+                }
+              }
+            },
+            "数据库原理与应用综合大作业2022.2 ( 试题 ).pdf": {
+              "_type": "file",
+              "name": "数据库原理与应用综合大作业2022.2 ( 试题 ).pdf",
+              "size": 386742,
+              "sizeHuman": "377.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库原理与应用综合大作业2022.2 ( 试题 ).pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库原理与应用综合大作业2022.2 ( 试题 ).pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/数据库原理/2022年春季学期/真题与复习-方桂安/数据库原理与应用综合大作业2022.2 ( 试题 ).pdf"
+            }
+          }
+        }
+      }
+    },
     "常毅成": {
       "_type": "folder",
       "_children": {
@@ -22166,6 +23245,166 @@
     }
   },
   "智能科学与技术/大二下/智能机器人技术": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "作业与答案": {
+              "_type": "folder",
+              "_children": {
+                "作业-第三章-答案.pdf": {
+                  "_type": "file",
+                  "name": "作业-第三章-答案.pdf",
+                  "size": 438709,
+                  "sizeHuman": "428.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第三章-答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第三章-答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第三章-答案.pdf"
+                },
+                "作业-第三章.pdf": {
+                  "_type": "file",
+                  "name": "作业-第三章.pdf",
+                  "size": 180315,
+                  "sizeHuman": "176.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第三章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第三章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第三章.pdf"
+                },
+                "作业-第二章-答案.pdf": {
+                  "_type": "file",
+                  "name": "作业-第二章-答案.pdf",
+                  "size": 286956,
+                  "sizeHuman": "280.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第二章-答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第二章-答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第二章-答案.pdf"
+                },
+                "作业-第二章.pdf": {
+                  "_type": "file",
+                  "name": "作业-第二章.pdf",
+                  "size": 126164,
+                  "sizeHuman": "123.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第二章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第二章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第二章.pdf"
+                },
+                "作业-第五章-答案.pdf": {
+                  "_type": "file",
+                  "name": "作业-第五章-答案.pdf",
+                  "size": 303509,
+                  "sizeHuman": "296.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第五章-答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第五章-答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第五章-答案.pdf"
+                },
+                "作业-第五章.pdf": {
+                  "_type": "file",
+                  "name": "作业-第五章.pdf",
+                  "size": 183253,
+                  "sizeHuman": "179.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第五章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第五章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第五章.pdf"
+                },
+                "作业-第四章-答案.pdf": {
+                  "_type": "file",
+                  "name": "作业-第四章-答案.pdf",
+                  "size": 199657,
+                  "sizeHuman": "195.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第四章-答案.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第四章-答案.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第四章-答案.pdf"
+                },
+                "作业-第四章.pdf": {
+                  "_type": "file",
+                  "name": "作业-第四章.pdf",
+                  "size": 178861,
+                  "sizeHuman": "174.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第四章.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第四章.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/作业与答案/作业-第四章.pdf"
+                }
+              }
+            },
+            "试卷": {
+              "_type": "folder",
+              "_children": {
+                "MR_practice_exercises.pdf": {
+                  "_type": "file",
+                  "name": "MR_practice_exercises.pdf",
+                  "size": 2482091,
+                  "sizeHuman": "2.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/MR_practice_exercises.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/MR_practice_exercises.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/MR_practice_exercises.pdf"
+                },
+                "SNU-2017-exams.pdf": {
+                  "_type": "file",
+                  "name": "SNU-2017-exams.pdf",
+                  "size": 19613933,
+                  "sizeHuman": "18.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2017-exams.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2017-exams.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2017-exams.pdf"
+                },
+                "SNU-2018-exams.pdf": {
+                  "_type": "file",
+                  "name": "SNU-2018-exams.pdf",
+                  "size": 21086810,
+                  "sizeHuman": "20.1 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2018-exams.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2018-exams.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2018-exams.pdf"
+                },
+                "SNU-2019-exams.pdf": {
+                  "_type": "file",
+                  "name": "SNU-2019-exams.pdf",
+                  "size": 7007909,
+                  "sizeHuman": "6.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2019-exams.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2019-exams.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2019-exams.pdf"
+                },
+                "SNU-2020-exams.pdf": {
+                  "_type": "file",
+                  "name": "SNU-2020-exams.pdf",
+                  "size": 5851194,
+                  "sizeHuman": "5.6 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2020-exams.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2020-exams.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/试卷/SNU-2020-exams.pdf"
+                }
+              }
+            },
+            "第三章-刚体运动小结.pdf": {
+              "_type": "file",
+              "name": "第三章-刚体运动小结.pdf",
+              "size": 300634,
+              "sizeHuman": "293.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/第三章-刚体运动小结.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/第三章-刚体运动小结.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/智能机器人技术/2022年春季学期/真题与复习-方桂安/第三章-刚体运动小结.pdf"
+            }
+          }
+        }
+      }
+    },
     "2024年春季学期": {
       "_type": "folder",
       "_children": {
@@ -22228,6 +23467,86 @@
     }
   },
   "智能科学与技术/大二下/最优化": {
+    "2023年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "作业-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "期中": {
+              "_type": "folder",
+              "_children": {
+                "solver.m": {
+                  "_type": "file",
+                  "name": "solver.m",
+                  "size": 3092,
+                  "sizeHuman": "3.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/solver.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/solver.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/solver.m"
+                },
+                "作业1-20354027-方桂安.pdf": {
+                  "_type": "file",
+                  "name": "作业1-20354027-方桂安.pdf",
+                  "size": 464463,
+                  "sizeHuman": "453.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/作业1-20354027-方桂安.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/作业1-20354027-方桂安.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/作业1-20354027-方桂安.pdf"
+                },
+                "知识点总结与分析.html": {
+                  "_type": "file",
+                  "name": "知识点总结与分析.html",
+                  "size": 174931,
+                  "sizeHuman": "170.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/知识点总结与分析.html",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/知识点总结与分析.html",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期中/知识点总结与分析.html"
+                }
+              }
+            },
+            "期末": {
+              "_type": "folder",
+              "_children": {
+                "20354027-方桂安-期末作业1.pdf": {
+                  "_type": "file",
+                  "name": "20354027-方桂安-期末作业1.pdf",
+                  "size": 605825,
+                  "sizeHuman": "591.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/20354027-方桂安-期末作业1.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/20354027-方桂安-期末作业1.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/20354027-方桂安-期末作业1.pdf"
+                },
+                "solution.m": {
+                  "_type": "file",
+                  "name": "solution.m",
+                  "size": 3618,
+                  "sizeHuman": "3.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/solution.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/solution.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/solution.m"
+                },
+                "知识点总结与分析.html": {
+                  "_type": "file",
+                  "name": "知识点总结与分析.html",
+                  "size": 112297,
+                  "sizeHuman": "109.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/知识点总结与分析.html",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/知识点总结与分析.html",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/2023年春季学期/作业-方桂安/期末/知识点总结与分析.html"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "作业3-常毅成": {
       "_type": "folder",
       "_children": {
@@ -22329,6 +23648,98 @@
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/最优化/《最优化理论与应用》期末考查作业题目（2025）.pdf"
     }
   },
+  "智能科学与技术/大二下/毛概": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "2018年最新毛概知识点总结.pdf": {
+              "_type": "file",
+              "name": "2018年最新毛概知识点总结.pdf",
+              "size": 139822,
+              "sizeHuman": "136.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/2018年最新毛概知识点总结.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/2018年最新毛概知识点总结.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/2018年最新毛概知识点总结.pdf"
+            },
+            "《毛概》（2021年版）笔记和课后习题（含考研真题）详解.pdf": {
+              "_type": "file",
+              "name": "《毛概》（2021年版）笔记和课后习题（含考研真题）详解.pdf",
+              "size": 11205087,
+              "sizeHuman": "10.7 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/《毛概》（2021年版）笔记和课后习题（含考研真题）详解.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/《毛概》（2021年版）笔记和课后习题（含考研真题）详解.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/《毛概》（2021年版）笔记和课后习题（含考研真题）详解.pdf"
+            },
+            "中山大学《毛概》刘燕.pdf": {
+              "_type": "file",
+              "name": "中山大学《毛概》刘燕.pdf",
+              "size": 109226,
+              "sizeHuman": "106.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/中山大学《毛概》刘燕.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/中山大学《毛概》刘燕.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/中山大学《毛概》刘燕.pdf"
+            },
+            "复习提纲.docx": {
+              "_type": "file",
+              "name": "复习提纲.docx",
+              "size": 79901,
+              "sizeHuman": "78.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/复习提纲.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/复习提纲.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/复习提纲.docx"
+            },
+            "毛概修改版.docx": {
+              "_type": "file",
+              "name": "毛概修改版.docx",
+              "size": 177554,
+              "sizeHuman": "173.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概修改版.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概修改版.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概修改版.docx"
+            },
+            "毛概脉络和知识点讲义.docx": {
+              "_type": "file",
+              "name": "毛概脉络和知识点讲义.docx",
+              "size": 74201,
+              "sizeHuman": "72.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概脉络和知识点讲义.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概脉络和知识点讲义.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概脉络和知识点讲义.docx"
+            },
+            "毛概重点.pdf": {
+              "_type": "file",
+              "name": "毛概重点.pdf",
+              "size": 516042,
+              "sizeHuman": "503.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概重点.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概重点.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概重点.pdf"
+            },
+            "考试.pdf": {
+              "_type": "file",
+              "name": "考试.pdf",
+              "size": 226280,
+              "sizeHuman": "221.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/考试.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/考试.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/考试.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大二下/毛概期末复习": {
     "第一章  毛泽东思想及其历史地位.docx": {
       "_type": "file",
@@ -22409,6 +23820,203 @@
       "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第四章  社会主义建设道路初步探索的理论成果.docx",
       "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第四章  社会主义建设道路初步探索的理论成果.docx",
       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第四章  社会主义建设道路初步探索的理论成果.docx"
+    }
+  },
+  "智能科学与技术/大二下/深度学习": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "Objective_Detection": {
+              "_type": "folder",
+              "_children": {
+                "HackPKU 2022 赛道二 题目说明.pdf": {
+                  "_type": "file",
+                  "name": "HackPKU 2022 赛道二 题目说明.pdf",
+                  "size": 1291805,
+                  "sizeHuman": "1.2 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf"
+                },
+                "data_pre.py": {
+                  "_type": "file",
+                  "name": "data_pre.py",
+                  "size": 6087,
+                  "sizeHuman": "5.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py"
+                },
+                "pred_a.txt": {
+                  "_type": "file",
+                  "name": "pred_a.txt",
+                  "size": 1580081,
+                  "sizeHuman": "1.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt"
+                },
+                "pred_b.txt": {
+                  "_type": "file",
+                  "name": "pred_b.txt",
+                  "size": 873295,
+                  "sizeHuman": "852.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt"
+                },
+                "requirements.txt": {
+                  "_type": "file",
+                  "name": "requirements.txt",
+                  "size": 3933,
+                  "sizeHuman": "3.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt"
+                },
+                "result_get.py": {
+                  "_type": "file",
+                  "name": "result_get.py",
+                  "size": 2161,
+                  "sizeHuman": "2.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py"
+                },
+                "train.ipynb": {
+                  "_type": "file",
+                  "name": "train.ipynb",
+                  "size": 69348,
+                  "sizeHuman": "67.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb"
+                }
+              }
+            },
+            "Plant_Pathology": {
+              "_type": "folder",
+              "_children": {
+                "Augmentation.ipynb": {
+                  "_type": "file",
+                  "name": "Augmentation.ipynb",
+                  "size": 28835973,
+                  "sizeHuman": "27.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb"
+                },
+                "requirements.txt": {
+                  "_type": "file",
+                  "name": "requirements.txt",
+                  "size": 14,
+                  "sizeHuman": "14 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt"
+                },
+                "test.py": {
+                  "_type": "file",
+                  "name": "test.py",
+                  "size": 18706,
+                  "sizeHuman": "18.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py"
+                },
+                "toy.ipynb": {
+                  "_type": "file",
+                  "name": "toy.ipynb",
+                  "size": 200429,
+                  "sizeHuman": "195.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb"
+                },
+                "train.ipynb": {
+                  "_type": "file",
+                  "name": "train.ipynb",
+                  "size": 41391,
+                  "sizeHuman": "40.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb"
+                },
+                "作业文档.pdf": {
+                  "_type": "file",
+                  "name": "作业文档.pdf",
+                  "size": 28238094,
+                  "sizeHuman": "26.9 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf"
+                }
+              }
+            },
+            "2021ise.ipynb": {
+              "_type": "file",
+              "name": "2021ise.ipynb",
+              "size": 103878,
+              "sizeHuman": "101.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb"
+            },
+            "requirements.txt": {
+              "_type": "file",
+              "name": "requirements.txt",
+              "size": 1915,
+              "sizeHuman": "1.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/requirements.txt",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/requirements.txt",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/requirements.txt"
+            },
+            "解题报告.pdf": {
+              "_type": "file",
+              "name": "解题报告.pdf",
+              "size": 2612588,
+              "sizeHuman": "2.5 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf"
+            }
+          }
+        },
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "CCF推荐期刊会议.pdf": {
+              "_type": "file",
+              "name": "CCF推荐期刊会议.pdf",
+              "size": 1051594,
+              "sizeHuman": "1.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf"
+            }
+          }
+        }
+      }
     }
   },
   "智能科学与技术/大二下/离散数学": {
@@ -22525,6 +24133,403 @@
       }
     }
   },
+  "智能科学与技术/大二下/自动控制理论": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "卢京潮老师讲义word": {
+              "_type": "folder",
+              "_children": {
+                "PID校正01.doc": {
+                  "_type": "file",
+                  "name": "PID校正01.doc",
+                  "size": 4799488,
+                  "sizeHuman": "4.6 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/PID校正01.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/PID校正01.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/PID校正01.doc"
+                },
+                "二阶欠阻尼动态性能.doc": {
+                  "_type": "file",
+                  "name": "二阶欠阻尼动态性能.doc",
+                  "size": 10147328,
+                  "sizeHuman": "9.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/二阶欠阻尼动态性能.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/二阶欠阻尼动态性能.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/二阶欠阻尼动态性能.doc"
+                },
+                "二阶系统性能改善及稳定性.doc": {
+                  "_type": "file",
+                  "name": "二阶系统性能改善及稳定性.doc",
+                  "size": 6850048,
+                  "sizeHuman": "6.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/二阶系统性能改善及稳定性.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/二阶系统性能改善及稳定性.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/二阶系统性能改善及稳定性.doc"
+                },
+                "典型环节及其传递函数.doc": {
+                  "_type": "file",
+                  "name": "典型环节及其传递函数.doc",
+                  "size": 49152,
+                  "sizeHuman": "48.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/典型环节及其传递函数.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/典型环节及其传递函数.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/典型环节及其传递函数.doc"
+                },
+                "希望特性设计法.doc": {
+                  "_type": "file",
+                  "name": "希望特性设计法.doc",
+                  "size": 5767168,
+                  "sizeHuman": "5.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/希望特性设计法.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/希望特性设计法.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/希望特性设计法.doc"
+                },
+                "控制系统元件.doc": {
+                  "_type": "file",
+                  "name": "控制系统元件.doc",
+                  "size": 3000832,
+                  "sizeHuman": "2.9 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/控制系统元件.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/控制系统元件.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/控制系统元件.doc"
+                },
+                "描述函数01.doc": {
+                  "_type": "file",
+                  "name": "描述函数01.doc",
+                  "size": 4059648,
+                  "sizeHuman": "3.9 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/描述函数01.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/描述函数01.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/描述函数01.doc"
+                },
+                "离散系统的稳定性.doc": {
+                  "_type": "file",
+                  "name": "离散系统的稳定性.doc",
+                  "size": 1001984,
+                  "sizeHuman": "978.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/离散系统的稳定性.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/离散系统的稳定性.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/离散系统的稳定性.doc"
+                },
+                "第三章小结02.doc": {
+                  "_type": "file",
+                  "name": "第三章小结02.doc",
+                  "size": 1020416,
+                  "sizeHuman": "996.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第三章小结02.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第三章小结02.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第三章小结02.doc"
+                },
+                "第二章例02.doc": {
+                  "_type": "file",
+                  "name": "第二章例02.doc",
+                  "size": 277504,
+                  "sizeHuman": "271.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第二章例02.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第二章例02.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第二章例02.doc"
+                },
+                "第五章例题01.DOC": {
+                  "_type": "file",
+                  "name": "第五章例题01.DOC",
+                  "size": 1332224,
+                  "sizeHuman": "1.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章例题01.DOC",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章例题01.DOC",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章例题01.DOC"
+                },
+                "第五章小结01.doc": {
+                  "_type": "file",
+                  "name": "第五章小结01.doc",
+                  "size": 592384,
+                  "sizeHuman": "578.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结01.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结01.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结01.doc"
+                },
+                "第五章小结1.doc": {
+                  "_type": "file",
+                  "name": "第五章小结1.doc",
+                  "size": 595456,
+                  "sizeHuman": "581.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结1.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结1.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结1.doc"
+                },
+                "第五章小结例4.doc": {
+                  "_type": "file",
+                  "name": "第五章小结例4.doc",
+                  "size": 1857024,
+                  "sizeHuman": "1.8 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结例4.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结例4.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第五章小结例4.doc"
+                },
+                "第四章小结.doc": {
+                  "_type": "file",
+                  "name": "第四章小结.doc",
+                  "size": 30208,
+                  "sizeHuman": "29.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第四章小结.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第四章小结.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/第四章小结.doc"
+                },
+                "结构图等效变换举例.doc": {
+                  "_type": "file",
+                  "name": "结构图等效变换举例.doc",
+                  "size": 1980928,
+                  "sizeHuman": "1.9 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/结构图等效变换举例.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/结构图等效变换举例.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/结构图等效变换举例.doc"
+                },
+                "结构图等效变换规则.doc": {
+                  "_type": "file",
+                  "name": "结构图等效变换规则.doc",
+                  "size": 1237504,
+                  "sizeHuman": "1.2 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/结构图等效变换规则.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/结构图等效变换规则.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/结构图等效变换规则.doc"
+                },
+                "自动控制原理1〜3章测验题.doc": {
+                  "_type": "file",
+                  "name": "自动控制原理1〜3章测验题.doc",
+                  "size": 773120,
+                  "sizeHuman": "755.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/自动控制原理1〜3章测验题.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/自动控制原理1〜3章测验题.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/自动控制原理1〜3章测验题.doc"
+                },
+                "解2：.doc": {
+                  "_type": "file",
+                  "name": "解2：.doc",
+                  "size": 36864,
+                  "sizeHuman": "36.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/解2：.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/解2：.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/解2：.doc"
+                },
+                "超前校正01.doc": {
+                  "_type": "file",
+                  "name": "超前校正01.doc",
+                  "size": 7857664,
+                  "sizeHuman": "7.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/超前校正01.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/超前校正01.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/超前校正01.doc"
+                },
+                "超前校正02.doc": {
+                  "_type": "file",
+                  "name": "超前校正02.doc",
+                  "size": 7621632,
+                  "sizeHuman": "7.3 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/超前校正02.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/超前校正02.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/超前校正02.doc"
+                },
+                "迟后校正01.doc": {
+                  "_type": "file",
+                  "name": "迟后校正01.doc",
+                  "size": 4649472,
+                  "sizeHuman": "4.4 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正01.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正01.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正01.doc"
+                },
+                "迟后校正02.doc": {
+                  "_type": "file",
+                  "name": "迟后校正02.doc",
+                  "size": 4921856,
+                  "sizeHuman": "4.7 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正02.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正02.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正02.doc"
+                },
+                "迟后校正03.doc": {
+                  "_type": "file",
+                  "name": "迟后校正03.doc",
+                  "size": 2596864,
+                  "sizeHuman": "2.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正03.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正03.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后校正03.doc"
+                },
+                "迟后超前校正01.doc": {
+                  "_type": "file",
+                  "name": "迟后超前校正01.doc",
+                  "size": 4830720,
+                  "sizeHuman": "4.6 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后超前校正01.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后超前校正01.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/迟后超前校正01.doc"
+                },
+                "采样系统小结-例题.doc": {
+                  "_type": "file",
+                  "name": "采样系统小结-例题.doc",
+                  "size": 288256,
+                  "sizeHuman": "281.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/采样系统小结-例题.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/采样系统小结-例题.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/采样系统小结-例题.doc"
+                },
+                "高阶系统性能计算0.doc": {
+                  "_type": "file",
+                  "name": "高阶系统性能计算0.doc",
+                  "size": 3239936,
+                  "sizeHuman": "3.1 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算0.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算0.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算0.doc"
+                },
+                "高阶系统性能计算00.doc": {
+                  "_type": "file",
+                  "name": "高阶系统性能计算00.doc",
+                  "size": 1585152,
+                  "sizeHuman": "1.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算00.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算00.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算00.doc"
+                },
+                "高阶系统性能计算1.doc": {
+                  "_type": "file",
+                  "name": "高阶系统性能计算1.doc",
+                  "size": 6845440,
+                  "sizeHuman": "6.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算1.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算1.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义word/高阶系统性能计算1.doc"
+                }
+              }
+            },
+            "卢京潮老师讲义.pdf": {
+              "_type": "file",
+              "name": "卢京潮老师讲义.pdf",
+              "size": 6854138,
+              "sizeHuman": "6.5 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/卢京潮老师讲义.pdf"
+            },
+            "第十九周内容串讲.pptx": {
+              "_type": "file",
+              "name": "第十九周内容串讲.pptx",
+              "size": 63180,
+              "sizeHuman": "61.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/第十九周内容串讲.pptx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/第十九周内容串讲.pptx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/第十九周内容串讲.pptx"
+            },
+            "自动控制原理480题.pdf": {
+              "_type": "file",
+              "name": "自动控制原理480题.pdf",
+              "size": 41194698,
+              "sizeHuman": "39.3 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理480题.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理480题.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理480题.pdf"
+            },
+            "自动控制原理【蜂考速成课】.pdf": {
+              "_type": "file",
+              "name": "自动控制原理【蜂考速成课】.pdf",
+              "size": 7348849,
+              "sizeHuman": "7.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理【蜂考速成课】.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理【蜂考速成课】.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理【蜂考速成课】.pdf"
+            },
+            "自动控制原理【高数叔】.pdf": {
+              "_type": "file",
+              "name": "自动控制原理【高数叔】.pdf",
+              "size": 3965380,
+              "sizeHuman": "3.8 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理【高数叔】.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理【高数叔】.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理【高数叔】.pdf"
+            },
+            "自动控制原理习题解析.pdf": {
+              "_type": "file",
+              "name": "自动控制原理习题解析.pdf",
+              "size": 75210650,
+              "sizeHuman": "71.7 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理习题解析.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理习题解析.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理习题解析.pdf"
+            },
+            "自动控制原理学·练·考.pdf": {
+              "_type": "file",
+              "name": "自动控制原理学·练·考.pdf",
+              "size": 19825066,
+              "sizeHuman": "18.9 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理学·练·考.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理学·练·考.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理学·练·考.pdf"
+            },
+            "自动控制原理期末考试卷与答案.pdf": {
+              "_type": "file",
+              "name": "自动控制原理期末考试卷与答案.pdf",
+              "size": 320308,
+              "sizeHuman": "312.8 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理期末考试卷与答案.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理期末考试卷与答案.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自动控制原理期末考试卷与答案.pdf"
+            },
+            "自控笔记.pdf": {
+              "_type": "file",
+              "name": "自控笔记.pdf",
+              "size": 10904011,
+              "sizeHuman": "10.4 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自控笔记.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自控笔记.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/自动控制理论/2022年春季学期/真题与复习-方桂安/自控笔记.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大二下/计算机网络": {
     "2024年春季学期": {
       "_type": "folder",
@@ -22581,6 +24586,95 @@
               "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机网络/2024年春季学期/实验与大作业-陈泓逸/第4次实验.pdf",
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机网络/2024年春季学期/实验与大作业-陈泓逸/第4次实验.pdf",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/计算机网络/2024年春季学期/实验与大作业-陈泓逸/第4次实验.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
+  "智能科学与技术/大二下/计算机辅助设计": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "练习题": {
+              "_type": "folder",
+              "_children": {
+                "20220602练习题.pptx": {
+                  "_type": "file",
+                  "name": "20220602练习题.pptx",
+                  "size": 2948333,
+                  "sizeHuman": "2.8 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/练习题/20220602练习题.pptx",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/练习题/20220602练习题.pptx",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/练习题/20220602练习题.pptx"
+                }
+              }
+            },
+            "AutoCAD学习笔记.docx": {
+              "_type": "file",
+              "name": "AutoCAD学习笔记.docx",
+              "size": 2103592,
+              "sizeHuman": "2.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/AutoCAD学习笔记.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/AutoCAD学习笔记.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/AutoCAD学习笔记.docx"
+            },
+            "CAD使用.docx": {
+              "_type": "file",
+              "name": "CAD使用.docx",
+              "size": 28365,
+              "sizeHuman": "27.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/CAD使用.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/CAD使用.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/CAD使用.docx"
+            },
+            "【2021年第2学期】《计算机辅助设计》期中考试.pdf": {
+              "_type": "file",
+              "name": "【2021年第2学期】《计算机辅助设计》期中考试.pdf",
+              "size": 376933,
+              "sizeHuman": "368.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/【2021年第2学期】《计算机辅助设计》期中考试.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/【2021年第2学期】《计算机辅助设计》期中考试.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/【2021年第2学期】《计算机辅助设计》期中考试.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
+  "智能科学与技术/大二下/认知科学基础": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "期中课程设计要求.docx": {
+              "_type": "file",
+              "name": "期中课程设计要求.docx",
+              "size": 14796,
+              "sizeHuman": "14.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx"
+            },
+            "课程设计要求.pdf": {
+              "_type": "file",
+              "name": "课程设计要求.pdf",
+              "size": 149220,
+              "sizeHuman": "145.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf"
             }
           }
         }
