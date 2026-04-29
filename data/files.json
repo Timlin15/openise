@@ -16179,6 +16179,18 @@
       }
     }
   },
+  "智能科学与技术/大三下/电机拖动技术": {
+    "电机实验.zip": {
+      "_type": "file",
+      "name": "电机实验.zip",
+      "size": 2,
+      "sizeHuman": "2 B",
+      "mtime": "2026/04/29",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三下/电机拖动技术/电机实验.zip",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三下/电机拖动技术/电机实验.zip",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三下/电机拖动技术/电机实验.zip"
+    }
+  },
   "智能科学与技术/大三下/科研实践": {
     "科学研究实践与创新课程指引.pdf": {
       "_type": "file",

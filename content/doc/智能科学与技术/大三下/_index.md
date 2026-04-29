@@ -8,6 +8,7 @@ weight: 32
   {{< card link="多智能体集群控制技术（含实验）" title="多智能体集群控制技术（含实验）" >}}
   {{< card link="无人系统导论" title="无人系统导论" >}}
   {{< card link="物联网" title="物联网" >}}
+  {{< card link="电机拖动技术" title="电机拖动技术" >}}
   {{< card link="科研实践" title="科研实践" >}}
   {{< card link="自然语言处理" title="自然语言处理" >}}
   {{< card link="软件工程（含实验）" title="软件工程" >}}
